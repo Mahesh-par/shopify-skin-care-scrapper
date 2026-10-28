@@ -1,0 +1,5434 @@
+{
+  "products": [
+    {
+      "id": 6776323014817,
+      "title": "Salicylic Acid + LHA 2% Cleanser",
+      "handle": "salicylic-lha-2-cleanser",
+      "body_html": "\u003Cp\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E AM / PM\u003Cbr\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E Everyday\u003C/span\u003E\u003C/p\u003E",
+      "published_at": "2021-06-11T19:01:46+05:30",
+      "created_at": "2021-06-09T14:00:43+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "Anti-acne",
+        "Cleanser",
+        "Face Wash",
+        "Facewash",
+        "Oil balance",
+        "Pore cleaning",
+        "score:99"
+      ],
+      "variants": [
+        {
+          "id": 44802351136929,
+          "title": "100ml",
+          "option1": "100ml",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100320",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 39642975502497,
+            "product_id": 6776323014817,
+            "position": 1,
+            "created_at": "2024-07-19T14:23:09+05:30",
+            "updated_at": "2025-09-02T12:26:46+05:30",
+            "alt": null,
+            "width": 1100,
+            "height": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/SalicylicCleanserNew.jpg?v=1756796206",
+            "variant_ids": [44802351136929]
+          },
+          "available": true,
+          "price": "284.00",
+          "grams": 200,
+          "compare_at_price": "299.00",
+          "position": 3,
+          "product_id": 6776323014817,
+          "created_at": "2025-01-08T14:49:11+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        },
+        {
+          "id": 44802351169697,
+          "title": "250ml",
+          "option1": "250ml",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128101136",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 42258268094625,
+            "product_id": 6776323014817,
+            "position": 7,
+            "created_at": "2025-10-17T14:28:35+05:30",
+            "updated_at": "2025-10-17T14:28:37+05:30",
+            "alt": null,
+            "width": 1100,
+            "height": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/SaliCleanser_ListingImage.png?v=1760691517",
+            "variant_ids": [44802351169697]
+          },
+          "available": true,
+          "price": "569.00",
+          "grams": 200,
+          "compare_at_price": "599.00",
+          "position": 4,
+          "product_id": 6776323014817,
+          "created_at": "2025-01-08T14:49:11+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 39642975502497,
+          "created_at": "2024-07-19T14:23:09+05:30",
+          "position": 1,
+          "updated_at": "2025-09-02T12:26:46+05:30",
+          "product_id": 6776323014817,
+          "variant_ids": [44802351136929],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/SalicylicCleanserNew.jpg?v=1756796206",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926817030305,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 2,
+          "updated_at": "2024-08-27T18:34:32+05:30",
+          "product_id": 6776323014817,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Salicylic_Cleanser_2.png?v=1724763872",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926817063073,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 3,
+          "updated_at": "2024-08-27T18:34:32+05:30",
+          "product_id": 6776323014817,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Salicylic_Cleanser_3.png?v=1724763872",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926817095841,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 4,
+          "updated_at": "2024-08-27T18:34:32+05:30",
+          "product_id": 6776323014817,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Salicylic_Cleanser_4.png?v=1724763872",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926817128609,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 5,
+          "updated_at": "2024-08-27T18:34:32+05:30",
+          "product_id": 6776323014817,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Salicylic_Cleanser_5.png?v=1724763872",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926817161377,
+          "created_at": "2024-08-27T18:34:29+05:30",
+          "position": 6,
+          "updated_at": "2024-08-27T18:34:31+05:30",
+          "product_id": 6776323014817,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Salicylic_Cleanser_6.png?v=1724763871",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42258268094625,
+          "created_at": "2025-10-17T14:28:35+05:30",
+          "position": 7,
+          "updated_at": "2025-10-17T14:28:37+05:30",
+          "product_id": 6776323014817,
+          "variant_ids": [44802351169697],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/SaliCleanser_ListingImage.png?v=1760691517",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "100ml",
+            "250ml"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7016730656929,
+      "title": "SPF 50 Sunscreen",
+      "handle": "multi-vitamin-spf-50",
+      "body_html": "\u003Cmeta charset=\"utf-8\"\u003E\n\u003Cp\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E AM\u003Cbr\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E Everyday\u003C/span\u003E\u003C/p\u003E",
+      "published_at": "2021-10-01T18:39:39+05:30",
+      "created_at": "2021-09-28T23:14:50+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "score:99",
+        "SPF",
+        "Sun damage",
+        "Sunscreen",
+        "uv filters"
+      ],
+      "variants": [
+        {
+          "id": 44802368405665,
+          "title": "50g",
+          "option1": "50g",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100382",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 39642992672929,
+            "product_id": 7016730656929,
+            "position": 1,
+            "created_at": "2024-07-19T14:23:09+05:30",
+            "updated_at": "2025-09-02T12:19:42+05:30",
+            "alt": null,
+            "width": 1100,
+            "height": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/SPF50New.jpg?v=1756795782",
+            "variant_ids": [44802368405665]
+          },
+          "available": true,
+          "price": "379.00",
+          "grams": 100,
+          "compare_at_price": "399.00",
+          "position": 1,
+          "product_id": 7016730656929,
+          "created_at": "2025-01-08T14:55:21+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        },
+        {
+          "id": 44802368438433,
+          "title": "100g",
+          "option1": "100g",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128101426",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 42258268225697,
+            "product_id": 7016730656929,
+            "position": 5,
+            "created_at": "2025-10-17T14:28:36+05:30",
+            "updated_at": "2025-10-17T14:28:37+05:30",
+            "alt": null,
+            "width": 1100,
+            "height": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/SPF50_ListingImage.png?v=1760691517",
+            "variant_ids": [44802368438433]
+          },
+          "available": true,
+          "price": "664.00",
+          "grams": 100,
+          "compare_at_price": "699.00",
+          "position": 2,
+          "product_id": 7016730656929,
+          "created_at": "2025-01-08T14:55:21+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        },
+        {
+          "id": 46656572817569,
+          "title": "30g",
+          "option1": "30g",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128101068",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 44283582349473,
+            "product_id": 7016730656929,
+            "position": 6,
+            "created_at": "2026-07-06T17:29:45+05:30",
+            "updated_at": "2026-07-06T17:29:46+05:30",
+            "alt": null,
+            "width": 840,
+            "height": 1260,
+            "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/SPF_50-_30g.png?v=1783339186",
+            "variant_ids": [46656572817569]
+          },
+          "available": true,
+          "price": "237.00",
+          "grams": 100,
+          "compare_at_price": "249.10",
+          "position": 3,
+          "product_id": 7016730656929,
+          "created_at": "2026-07-06T17:31:34+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 39642992672929,
+          "created_at": "2024-07-19T14:23:09+05:30",
+          "position": 1,
+          "updated_at": "2025-09-02T12:19:42+05:30",
+          "product_id": 7016730656929,
+          "variant_ids": [44802368405665],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/SPF50New.jpg?v=1756795782",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926810837153,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 2,
+          "updated_at": "2024-08-27T18:34:32+05:30",
+          "product_id": 7016730656929,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/SPF_50_2.png?v=1724763872",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926810869921,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 3,
+          "updated_at": "2024-08-27T18:34:32+05:30",
+          "product_id": 7016730656929,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/SPF_50_3.png?v=1724763872",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926811066529,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 4,
+          "updated_at": "2024-08-27T18:34:32+05:30",
+          "product_id": 7016730656929,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/SPF_50_4.png?v=1724763872",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42258268225697,
+          "created_at": "2025-10-17T14:28:36+05:30",
+          "position": 5,
+          "updated_at": "2025-10-17T14:28:37+05:30",
+          "product_id": 7016730656929,
+          "variant_ids": [44802368438433],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/SPF50_ListingImage.png?v=1760691517",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 44283582349473,
+          "created_at": "2026-07-06T17:29:45+05:30",
+          "position": 6,
+          "updated_at": "2026-07-06T17:29:46+05:30",
+          "product_id": 7016730656929,
+          "variant_ids": [46656572817569],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/SPF_50-_30g.png?v=1783339186",
+          "width": 840,
+          "height": 1260
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "50g",
+            "100g",
+            "30g"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7221438742689,
+      "title": "Vitamin B5 10% Moisturizer",
+      "handle": "vitamin-b5-10-moisturizer",
+      "body_html": "\u003Cp\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E AM / PM\u003Cbr\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E Everyday\u003C/span\u003E\u003C/p\u003E",
+      "published_at": "2022-01-21T17:50:13+05:30",
+      "created_at": "2022-01-18T23:41:12+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "Hydration",
+        "Moisturization",
+        "Oil balance",
+        "Repair",
+        "score:99",
+        "summer"
+      ],
+      "variants": [
+        {
+          "id": 44802346778785,
+          "title": "50g",
+          "option1": "50g",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100443",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 33363026641057,
+            "product_id": 7221438742689,
+            "position": 1,
+            "created_at": "2022-03-06T21:02:05+05:30",
+            "updated_at": "2025-09-02T13:40:45+05:30",
+            "alt": "Vitamin B5 10% Moisturiser",
+            "width": 1100,
+            "height": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/products/B5Moisturizer1200-2-min.png?v=1756800645",
+            "variant_ids": [44802346778785]
+          },
+          "available": true,
+          "price": "332.00",
+          "grams": 120,
+          "compare_at_price": "349.00",
+          "position": 2,
+          "product_id": 7221438742689,
+          "created_at": "2025-01-08T14:47:55+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        },
+        {
+          "id": 44802346811553,
+          "title": "100g",
+          "option1": "100g",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128101433",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 42258268160161,
+            "product_id": 7221438742689,
+            "position": 6,
+            "created_at": "2025-10-17T14:28:36+05:30",
+            "updated_at": "2025-10-17T14:28:38+05:30",
+            "alt": null,
+            "width": 1100,
+            "height": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/VitB5_ListingImage.png?v=1760691518",
+            "variant_ids": [44802346811553]
+          },
+          "available": true,
+          "price": "569.00",
+          "grams": 120,
+          "compare_at_price": "599.00",
+          "position": 3,
+          "product_id": 7221438742689,
+          "created_at": "2025-01-08T14:47:55+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 33363026641057,
+          "created_at": "2022-03-06T21:02:05+05:30",
+          "position": 1,
+          "updated_at": "2025-09-02T13:40:45+05:30",
+          "product_id": 7221438742689,
+          "variant_ids": [44802346778785],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/products/B5Moisturizer1200-2-min.png?v=1756800645",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926771089569,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 2,
+          "updated_at": "2025-09-02T13:40:46+05:30",
+          "product_id": 7221438742689,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Vitamin_B5_Moistu_2.png?v=1756800646",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926771122337,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 3,
+          "updated_at": "2025-09-02T13:40:46+05:30",
+          "product_id": 7221438742689,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Vitamin_B5_Moistu_3.png?v=1756800646",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926771155105,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 4,
+          "updated_at": "2025-09-02T13:40:46+05:30",
+          "product_id": 7221438742689,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Vitamin_B5_Moistu_4.png?v=1756800646",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926771220641,
+          "created_at": "2024-08-27T18:34:29+05:30",
+          "position": 5,
+          "updated_at": "2025-09-02T13:40:46+05:30",
+          "product_id": 7221438742689,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Vitamin_B5_Moistu_6.png?v=1756800646",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42258268160161,
+          "created_at": "2025-10-17T14:28:36+05:30",
+          "position": 6,
+          "updated_at": "2025-10-17T14:28:38+05:30",
+          "product_id": 7221438742689,
+          "variant_ids": [44802346811553],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/VitB5_ListingImage.png?v=1760691518",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "50g",
+            "100g"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7572035502241,
+      "title": "Niacinamide 10% Face Serum",
+      "handle": "niacinamide-10-with-matmarine",
+      "body_html": "\u003Cp\u003E\u003Cmeta charset=\"utf-8\"\u003E \u003Cmeta charset=\"utf-8\"\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E\u003Cspan\u003E \u003C/span\u003EAM / PM\u003Cbr\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E\u003Cspan\u003E \u003C/span\u003EEveryday\u003C/span\u003E\u003C/p\u003E",
+      "published_at": "2022-10-19T17:44:59+05:30",
+      "created_at": "2022-10-19T12:50:00+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "Anti-acne",
+        "Dark spots",
+        "Even tone",
+        "Oil balance",
+        "score:99",
+        "treat"
+      ],
+      "variants": [
+        {
+          "id": 44802331148449,
+          "title": "30ml",
+          "option1": "30ml",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100030",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 39645272899745,
+            "product_id": 7572035502241,
+            "position": 1,
+            "created_at": "2024-07-19T19:38:45+05:30",
+            "updated_at": "2024-07-19T19:38:47+05:30",
+            "alt": null,
+            "width": 1100,
+            "height": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Nia10New.png?v=1721398127",
+            "variant_ids": [44802331148449]
+          },
+          "available": true,
+          "price": "569.00",
+          "grams": 100,
+          "compare_at_price": "599.00",
+          "position": 1,
+          "product_id": 7572035502241,
+          "created_at": "2025-01-08T14:42:37+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        },
+        {
+          "id": 44802331181217,
+          "title": "60ml",
+          "option1": "60ml",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128101419",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 42258268192929,
+            "product_id": 7572035502241,
+            "position": 7,
+            "created_at": "2025-10-17T14:28:36+05:30",
+            "updated_at": "2025-10-17T14:28:37+05:30",
+            "alt": null,
+            "width": 1100,
+            "height": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/NiaSerum_ListingImage.png?v=1760691517",
+            "variant_ids": [44802331181217]
+          },
+          "available": true,
+          "price": "949.00",
+          "grams": 100,
+          "compare_at_price": "999.00",
+          "position": 2,
+          "product_id": 7572035502241,
+          "created_at": "2025-01-08T14:42:37+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        },
+        {
+          "id": 45154956705953,
+          "title": "10ml",
+          "option1": "10ml",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128101099",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 42117655134369,
+            "product_id": 7572035502241,
+            "position": 6,
+            "created_at": "2025-09-23T14:53:50+05:30",
+            "updated_at": "2025-09-23T14:53:52+05:30",
+            "alt": null,
+            "width": 1100,
+            "height": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Nia10_10ml_Listing_Image.jpg?v=1758619432",
+            "variant_ids": [45154956705953]
+          },
+          "available": true,
+          "price": "237.00",
+          "grams": 100,
+          "compare_at_price": "249.00",
+          "position": 3,
+          "product_id": 7572035502241,
+          "created_at": "2025-09-23T14:53:02+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        },
+        {
+          "id": 46819999776929,
+          "title": "20ml",
+          "option1": "20ml",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128102379",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "474.00",
+          "grams": 100,
+          "compare_at_price": "499.00",
+          "position": 4,
+          "product_id": 7572035502241,
+          "created_at": "2026-08-05T16:17:06+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 39645272899745,
+          "created_at": "2024-07-19T19:38:45+05:30",
+          "position": 1,
+          "updated_at": "2024-07-19T19:38:47+05:30",
+          "product_id": 7572035502241,
+          "variant_ids": [44802331148449],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Nia10New.png?v=1721398127",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 38541806305441,
+          "created_at": "2024-03-01T20:01:56+05:30",
+          "position": 2,
+          "updated_at": "2024-07-19T19:46:08+05:30",
+          "product_id": 7572035502241,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Nia10Image2.png?v=1721398568",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39642947190945,
+          "created_at": "2024-07-19T14:33:36+05:30",
+          "position": 3,
+          "updated_at": "2024-07-19T14:33:37+05:30",
+          "product_id": 7572035502241,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Nia_10_Image_3_1.png?v=1721379817",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 38547664175265,
+          "created_at": "2024-03-02T12:25:10+05:30",
+          "position": 4,
+          "updated_at": "2024-07-19T19:46:08+05:30",
+          "product_id": 7572035502241,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Nia10Image4.png?v=1721398568",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 38547665191073,
+          "created_at": "2024-03-02T12:25:24+05:30",
+          "position": 5,
+          "updated_at": "2024-07-19T19:46:08+05:30",
+          "product_id": 7572035502241,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Nia10Image5.png?v=1721398568",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42117655134369,
+          "created_at": "2025-09-23T14:53:50+05:30",
+          "position": 6,
+          "updated_at": "2025-09-23T14:53:52+05:30",
+          "product_id": 7572035502241,
+          "variant_ids": [45154956705953],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Nia10_10ml_Listing_Image.jpg?v=1758619432",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42258268192929,
+          "created_at": "2025-10-17T14:28:36+05:30",
+          "position": 7,
+          "updated_at": "2025-10-17T14:28:37+05:30",
+          "product_id": 7572035502241,
+          "variant_ids": [44802331181217],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/NiaSerum_ListingImage.png?v=1760691517",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "30ml",
+            "60ml",
+            "10ml",
+            "20ml"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5831331053729,
+      "title": "Vitamin C 10% Face Serum",
+      "handle": "vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1",
+      "body_html": "\u003Cp\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E AM / PM\u003Cbr\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E Everyday\u003C/span\u003E\u003C/p\u003E",
+      "published_at": "2020-10-30T16:22:58+05:30",
+      "created_at": "2020-10-30T16:06:01+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "Brightening",
+        "Dark spots",
+        "dullness",
+        "Even tone",
+        "score:99",
+        "Sun damage",
+        "treat"
+      ],
+      "variants": [
+        {
+          "id": 45154750103713,
+          "title": "10ml",
+          "option1": "10ml",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128101082",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 42132345946273,
+            "product_id": 5831331053729,
+            "position": 7,
+            "created_at": "2025-09-25T15:31:09+05:30",
+            "updated_at": "2025-09-25T15:43:19+05:30",
+            "alt": null,
+            "width": 1100,
+            "height": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/VitC_10ml_Variant_ListingImage_09275734-cf64-4a21-ae63-a5784761872d.jpg?v=1758795199",
+            "variant_ids": [45154750103713]
+          },
+          "available": true,
+          "price": "284.00",
+          "grams": 100,
+          "compare_at_price": "299.00",
+          "position": 1,
+          "product_id": 5831331053729,
+          "created_at": "2025-09-23T11:14:18+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        },
+        {
+          "id": 45154750070945,
+          "title": "30ml",
+          "option1": "30ml",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100139",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 33361189601441,
+            "product_id": 5831331053729,
+            "position": 1,
+            "created_at": "2022-03-06T10:47:26+05:30",
+            "updated_at": "2022-03-06T10:47:28+05:30",
+            "alt": null,
+            "width": 1100,
+            "height": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/products/VitaminC10_1200-1-min.png?v=1646543848",
+            "variant_ids": [45154750070945]
+          },
+          "available": true,
+          "price": "664.00",
+          "grams": 100,
+          "compare_at_price": "699.00",
+          "position": 2,
+          "product_id": 5831331053729,
+          "created_at": "2025-09-23T11:14:18+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        },
+        {
+          "id": 46819997843617,
+          "title": "20ml",
+          "option1": "20ml",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128102409",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "546.00",
+          "grams": 100,
+          "compare_at_price": "575.00",
+          "position": 3,
+          "product_id": 5831331053729,
+          "created_at": "2026-08-05T16:15:50+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 33361189601441,
+          "created_at": "2022-03-06T10:47:26+05:30",
+          "position": 1,
+          "updated_at": "2022-03-06T10:47:28+05:30",
+          "product_id": 5831331053729,
+          "variant_ids": [45154750070945],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/products/VitaminC10_1200-1-min.png?v=1646543848",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 40089288573089,
+          "created_at": "2024-09-16T18:01:02+05:30",
+          "position": 2,
+          "updated_at": "2024-09-16T18:01:03+05:30",
+          "product_id": 5831331053729,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Vitamin_C_02.png?v=1726489863",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 40089288605857,
+          "created_at": "2024-09-16T18:01:02+05:30",
+          "position": 3,
+          "updated_at": "2024-09-16T18:01:04+05:30",
+          "product_id": 5831331053729,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Vitamin_C_03.png?v=1726489864",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 40089288638625,
+          "created_at": "2024-09-16T18:01:02+05:30",
+          "position": 4,
+          "updated_at": "2024-09-16T18:01:04+05:30",
+          "product_id": 5831331053729,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Vitamin_C_04.png?v=1726489864",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 40089288671393,
+          "created_at": "2024-09-16T18:01:02+05:30",
+          "position": 5,
+          "updated_at": "2024-09-16T18:01:04+05:30",
+          "product_id": 5831331053729,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Vitamin_C_05.png?v=1726489864",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 40089288704161,
+          "created_at": "2024-09-16T18:01:00+05:30",
+          "position": 6,
+          "updated_at": "2024-09-16T18:01:01+05:30",
+          "product_id": 5831331053729,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Vitamin_C_06.png?v=1726489861",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42132345946273,
+          "created_at": "2025-09-25T15:31:09+05:30",
+          "position": 7,
+          "updated_at": "2025-09-25T15:43:19+05:30",
+          "product_id": 5831331053729,
+          "variant_ids": [45154750103713],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/VitC_10ml_Variant_ListingImage_09275734-cf64-4a21-ae63-a5784761872d.jpg?v=1758795199",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "10ml",
+            "30ml",
+            "20ml"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5396402372769,
+      "title": "Salicylic Acid 2% Face Serum",
+      "handle": "salicylic-acid-2",
+      "body_html": "\u003Cmeta charset=\"utf-8\"\u003E\n\u003Cp data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E PM\u003Cbr data-mce-fragment=\"1\"\u003E\u003C/p\u003E\n\u003Cp data-mce-fragment=\"1\"\u003E\u003Cspan data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E Alternate days\u003C/span\u003E\u003C/p\u003E",
+      "published_at": "2020-07-16T20:51:59+05:30",
+      "created_at": "2020-07-16T20:51:58+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "Anti-acne",
+        "Exfoliation",
+        "Oil balance",
+        "Pore cleaning",
+        "Pore tightening",
+        "Remove blackheads",
+        "score:99",
+        "treat"
+      ],
+      "variants": [
+        {
+          "id": 44802356805793,
+          "title": "30ml",
+          "option1": "30ml",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100016",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 33352444543137,
+            "product_id": 5396402372769,
+            "position": 1,
+            "created_at": "2022-03-05T11:11:38+05:30",
+            "updated_at": "2022-03-05T11:11:39+05:30",
+            "alt": null,
+            "width": 1100,
+            "height": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/products/SalicylicAcid2_1200-1-min.png?v=1646458899",
+            "variant_ids": [44802356805793]
+          },
+          "available": true,
+          "price": "522.00",
+          "grams": 60,
+          "compare_at_price": "549.00",
+          "position": 1,
+          "product_id": 5396402372769,
+          "created_at": "2025-01-08T14:50:33+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        },
+        {
+          "id": 44802356838561,
+          "title": "60ml",
+          "option1": "60ml",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128101402",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 42258268258465,
+            "product_id": 5396402372769,
+            "position": 7,
+            "created_at": "2025-10-17T14:28:36+05:30",
+            "updated_at": "2025-10-17T14:28:37+05:30",
+            "alt": null,
+            "width": 1100,
+            "height": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Sali_Serum_ListingImage.png?v=1760691517",
+            "variant_ids": [44802356838561]
+          },
+          "available": true,
+          "price": "902.00",
+          "grams": 60,
+          "compare_at_price": "949.00",
+          "position": 2,
+          "product_id": 5396402372769,
+          "created_at": "2025-01-08T14:50:33+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        },
+        {
+          "id": 45154956542113,
+          "title": "10ml",
+          "option1": "10ml",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128101129",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 42258275664033,
+            "product_id": 5396402372769,
+            "position": 8,
+            "created_at": "2025-10-17T14:32:51+05:30",
+            "updated_at": "2025-10-17T14:32:53+05:30",
+            "alt": null,
+            "width": 1100,
+            "height": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Salicylic_Variant_Listing_10ml.jpg?v=1760691773",
+            "variant_ids": [45154956542113]
+          },
+          "available": true,
+          "price": "237.00",
+          "grams": 60,
+          "compare_at_price": "249.00",
+          "position": 3,
+          "product_id": 5396402372769,
+          "created_at": "2025-09-23T14:49:38+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        },
+        {
+          "id": 46819991847073,
+          "title": "20ml",
+          "option1": "20ml",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128102393",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "474.00",
+          "grams": 60,
+          "compare_at_price": "499.00",
+          "position": 4,
+          "product_id": 5396402372769,
+          "created_at": "2026-08-05T16:14:08+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 33352444543137,
+          "created_at": "2022-03-05T11:11:38+05:30",
+          "position": 1,
+          "updated_at": "2022-03-05T11:11:39+05:30",
+          "product_id": 5396402372769,
+          "variant_ids": [44802356805793],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/products/SalicylicAcid2_1200-1-min.png?v=1646458899",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926816407713,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 2,
+          "updated_at": "2024-08-27T18:34:32+05:30",
+          "product_id": 5396402372769,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Salicylic_Serum_2.png?v=1724763872",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926816440481,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 3,
+          "updated_at": "2024-08-27T18:34:31+05:30",
+          "product_id": 5396402372769,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Salicylic_Serum_3.png?v=1724763871",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926816473249,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 4,
+          "updated_at": "2024-08-27T18:34:32+05:30",
+          "product_id": 5396402372769,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Salicylic_Serum_4.png?v=1724763872",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926816506017,
+          "created_at": "2024-08-27T18:34:31+05:30",
+          "position": 5,
+          "updated_at": "2024-08-27T18:34:32+05:30",
+          "product_id": 5396402372769,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Salicylic_Serum_5.png?v=1724763872",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926816538785,
+          "created_at": "2024-08-27T18:34:29+05:30",
+          "position": 6,
+          "updated_at": "2024-08-27T18:34:30+05:30",
+          "product_id": 5396402372769,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Salicylic_Serum_6.png?v=1724763870",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42258268258465,
+          "created_at": "2025-10-17T14:28:36+05:30",
+          "position": 7,
+          "updated_at": "2025-10-17T14:28:37+05:30",
+          "product_id": 5396402372769,
+          "variant_ids": [44802356838561],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Sali_Serum_ListingImage.png?v=1760691517",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42258275664033,
+          "created_at": "2025-10-17T14:32:51+05:30",
+          "position": 8,
+          "updated_at": "2025-10-17T14:32:53+05:30",
+          "product_id": 5396402372769,
+          "variant_ids": [45154956542113],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Salicylic_Variant_Listing_10ml.jpg?v=1760691773",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "30ml",
+            "60ml",
+            "10ml",
+            "20ml"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5746593726625,
+      "title": "Alpha Arbutin 2% Face Serum",
+      "handle": "alpha-arbutin-2",
+      "body_html": "\u003Cp\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E AM / PM\u003Cbr\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E Everyday\u003C/span\u003E\u003C/p\u003E",
+      "published_at": "2020-10-02T16:50:01+05:30",
+      "created_at": "2020-10-02T16:50:00+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "Acne-marks",
+        "alpha arbutin",
+        "butylresorcinol",
+        "Dark spots",
+        "ferulic acid",
+        "Hyperpigmentation",
+        "lactic acid",
+        "score:99",
+        "serum",
+        "Sun damage",
+        "sun spots",
+        "tanning",
+        "treat"
+      ],
+      "variants": [
+        {
+          "id": 45154758262945,
+          "title": "30ml",
+          "option1": "30ml",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100054",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 39645207691425,
+            "product_id": 5746593726625,
+            "position": 1,
+            "created_at": "2024-07-19T19:33:56+05:30",
+            "updated_at": "2024-07-19T19:33:58+05:30",
+            "alt": null,
+            "width": 1100,
+            "height": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/AlphaArNew.png?v=1721397838",
+            "variant_ids": [45154758262945]
+          },
+          "available": true,
+          "price": "522.00",
+          "grams": 0,
+          "compare_at_price": "549.00",
+          "position": 1,
+          "product_id": 5746593726625,
+          "created_at": "2025-09-23T11:28:40+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        },
+        {
+          "id": 45154758295713,
+          "title": "10ml",
+          "option1": "10ml",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128101112",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "237.00",
+          "grams": 0,
+          "compare_at_price": "249.00",
+          "position": 2,
+          "product_id": 5746593726625,
+          "created_at": "2025-09-23T11:28:40+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 39645207691425,
+          "created_at": "2024-07-19T19:33:56+05:30",
+          "position": 1,
+          "updated_at": "2024-07-19T19:33:58+05:30",
+          "product_id": 5746593726625,
+          "variant_ids": [45154758262945],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/AlphaArNew.png?v=1721397838",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785616703649,
+          "created_at": "2024-08-06T19:23:11+05:30",
+          "position": 2,
+          "updated_at": "2024-08-06T19:23:13+05:30",
+          "product_id": 5746593726625,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Alpha_Arbutin_2.png?v=1722952393",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785616605345,
+          "created_at": "2024-08-07T18:32:29+05:30",
+          "position": 3,
+          "updated_at": "2024-08-07T18:32:31+05:30",
+          "product_id": 5746593726625,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Alpha_Arbutin_3.png?v=1723035751",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785616670881,
+          "created_at": "2024-08-06T19:23:12+05:30",
+          "position": 4,
+          "updated_at": "2024-08-06T19:23:14+05:30",
+          "product_id": 5746593726625,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Alpha_Arbutin_4.png?v=1722952394",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785616638113,
+          "created_at": "2024-08-06T19:23:12+05:30",
+          "position": 5,
+          "updated_at": "2024-08-06T19:23:13+05:30",
+          "product_id": 5746593726625,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Alpha_Arbutin_5.png?v=1722952393",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785616736417,
+          "created_at": "2024-08-06T19:23:11+05:30",
+          "position": 6,
+          "updated_at": "2024-08-06T19:23:12+05:30",
+          "product_id": 5746593726625,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Alpha_Arbutin_6.png?v=1722952392",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "30ml",
+            "10ml"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7221426258081,
+      "title": "Marula Oil 5% Face Moisturizer",
+      "handle": "marula-05-moisturizer",
+      "body_html": "\u003Cp\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E AM / PM\u003Cbr\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E Everyday\u003C/span\u003E\u003C/p\u003E",
+      "published_at": "2022-01-21T17:50:07+05:30",
+      "created_at": "2022-01-18T23:36:38+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "dry skin",
+        "dryness",
+        "Hydration",
+        "Moisturization",
+        "score:99"
+      ],
+      "variants": [
+        {
+          "id": 45880088002721,
+          "title": "50g",
+          "option1": "50g",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100436",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 39645264281761,
+            "product_id": 7221426258081,
+            "position": 1,
+            "created_at": "2024-07-19T19:38:47+05:30",
+            "updated_at": "2025-09-02T14:33:21+05:30",
+            "alt": "Marula Oil 05% Moisturiser",
+            "width": 1100,
+            "height": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Marula_New.png?v=1756803801",
+            "variant_ids": [45880088002721]
+          },
+          "available": true,
+          "price": "284.00",
+          "grams": 120,
+          "compare_at_price": "299.00",
+          "position": 1,
+          "product_id": 7221426258081,
+          "created_at": "2026-04-01T12:52:00+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        },
+        {
+          "id": 45880088035489,
+          "title": "30g",
+          "option1": "30g",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128101891",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 44283738456225,
+            "product_id": 7221426258081,
+            "position": 6,
+            "created_at": "2026-07-06T17:41:56+05:30",
+            "updated_at": "2026-07-06T17:41:58+05:30",
+            "alt": null,
+            "width": 840,
+            "height": 1260,
+            "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Marula_Oil_30g.png?v=1783339918",
+            "variant_ids": [45880088035489]
+          },
+          "available": true,
+          "price": "189.00",
+          "grams": 120,
+          "compare_at_price": "199.00",
+          "position": 2,
+          "product_id": 7221426258081,
+          "created_at": "2026-04-01T12:52:00+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 39645264281761,
+          "created_at": "2024-07-19T19:38:47+05:30",
+          "position": 1,
+          "updated_at": "2025-09-02T14:33:21+05:30",
+          "product_id": 7221426258081,
+          "variant_ids": [45880088002721],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Marula_New.png?v=1756803801",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785670213793,
+          "created_at": "2024-08-06T19:05:20+05:30",
+          "position": 2,
+          "updated_at": "2025-09-02T14:33:21+05:30",
+          "product_id": 7221426258081,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Marula_2.png?v=1756803801",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785670181025,
+          "created_at": "2024-08-06T19:05:20+05:30",
+          "position": 3,
+          "updated_at": "2025-09-02T14:33:21+05:30",
+          "product_id": 7221426258081,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Marula_3.png?v=1756803801",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785670148257,
+          "created_at": "2024-08-06T19:05:21+05:30",
+          "position": 4,
+          "updated_at": "2025-09-02T14:33:22+05:30",
+          "product_id": 7221426258081,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Marula_4.png?v=1756803802",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785732210849,
+          "created_at": "2024-08-07T18:33:04+05:30",
+          "position": 5,
+          "updated_at": "2025-09-02T14:33:22+05:30",
+          "product_id": 7221426258081,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Marula_6.png?v=1756803802",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 44283738456225,
+          "created_at": "2026-07-06T17:41:56+05:30",
+          "position": 6,
+          "updated_at": "2026-07-06T17:41:58+05:30",
+          "product_id": 7221426258081,
+          "variant_ids": [45880088035489],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Marula_Oil_30g.png?v=1783339918",
+          "width": 840,
+          "height": 1260
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "50g",
+            "30g"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5746475008161,
+      "title": "Niacinamide 5% Face Serum",
+      "handle": "niacinamide-5-hyaluronic-acid-1",
+      "body_html": "\u003Cp\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E AM / PM\u003Cbr\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E Everyday\u003C/span\u003E\u003C/p\u003E",
+      "published_at": "2020-10-02T15:14:59+05:30",
+      "created_at": "2020-10-02T15:14:59+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "Acne-marks",
+        "Anti-inflammatory",
+        "Even tone",
+        "Fine lines",
+        "Hydration",
+        "score:99",
+        "Sun damage",
+        "treat",
+        "winter"
+      ],
+      "variants": [
+        {
+          "id": 36541705584801,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100108",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "569.00",
+          "grams": 60,
+          "compare_at_price": "599.00",
+          "position": 1,
+          "product_id": 5746475008161,
+          "created_at": "2020-10-02T15:14:59+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 33352448999585,
+          "created_at": "2022-03-05T11:12:34+05:30",
+          "position": 1,
+          "updated_at": "2022-03-05T11:12:35+05:30",
+          "product_id": 5746475008161,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/products/Niacinamide5_1200-1-min.png?v=1646458955",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785683615905,
+          "created_at": "2024-08-06T19:04:36+05:30",
+          "position": 2,
+          "updated_at": "2024-08-06T19:04:38+05:30",
+          "product_id": 5746475008161,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Niaci_05_2.png?v=1722951278",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785683517601,
+          "created_at": "2024-08-06T19:04:36+05:30",
+          "position": 3,
+          "updated_at": "2024-08-06T19:04:38+05:30",
+          "product_id": 5746475008161,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Niaci_05_3.png?v=1722951278",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785683583137,
+          "created_at": "2024-08-06T19:04:36+05:30",
+          "position": 4,
+          "updated_at": "2024-08-06T19:04:38+05:30",
+          "product_id": 5746475008161,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Niaci_05_4.png?v=1722951278",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785683550369,
+          "created_at": "2024-08-06T19:04:36+05:30",
+          "position": 5,
+          "updated_at": "2024-08-06T19:04:38+05:30",
+          "product_id": 5746475008161,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Niaci_05_5.png?v=1722951278",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785683484833,
+          "created_at": "2024-08-07T18:31:32+05:30",
+          "position": 6,
+          "updated_at": "2024-08-07T18:31:34+05:30",
+          "product_id": 5746475008161,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Niaci_05_6.png?v=1723035694",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7320022220961,
+      "title": "Vitamin C + E + Ferulic 16% Face Serum",
+      "handle": "vitamin-c-e-ferulic-16",
+      "body_html": "\u003Cmeta charset=\"utf-8\"\u003E\n\u003Cp data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E AM / PM\u003Cbr data-mce-fragment=\"1\"\u003E\u003C/p\u003E\n\u003Cp data-mce-fragment=\"1\"\u003E\u003Cspan data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E Everyday\u003C/span\u003E\u003C/p\u003E\n\u003Cbr\u003E",
+      "published_at": "2022-04-01T15:18:21+05:30",
+      "created_at": "2022-03-31T10:55:55+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "Dark spots",
+        "Dull Skin",
+        "score:99",
+        "Sun damage",
+        "treat"
+      ],
+      "variants": [
+        {
+          "id": 45880084791457,
+          "title": "20ml",
+          "option1": "20ml",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100504",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 39645294657697,
+            "product_id": 7320022220961,
+            "position": 1,
+            "created_at": "2024-07-19T19:38:45+05:30",
+            "updated_at": "2024-07-19T19:38:47+05:30",
+            "alt": null,
+            "width": 1100,
+            "height": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Vit16New.png?v=1721398127",
+            "variant_ids": [45880084791457]
+          },
+          "available": true,
+          "price": "569.00",
+          "grams": 60,
+          "compare_at_price": "599.00",
+          "position": 1,
+          "product_id": 7320022220961,
+          "created_at": "2026-04-01T12:40:02+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        },
+        {
+          "id": 45880084824225,
+          "title": "10ml",
+          "option1": "10ml",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128101907",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 44283657683105,
+            "product_id": 7320022220961,
+            "position": 7,
+            "created_at": "2026-07-06T17:35:46+05:30",
+            "updated_at": "2026-07-06T17:35:47+05:30",
+            "alt": null,
+            "width": 840,
+            "height": 1260,
+            "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Vit_C_E_Ferulic_Serum_10ml.png?v=1783339547",
+            "variant_ids": [45880084824225]
+          },
+          "available": true,
+          "price": "332.00",
+          "grams": 60,
+          "compare_at_price": "349.00",
+          "position": 2,
+          "product_id": 7320022220961,
+          "created_at": "2026-04-01T12:40:02+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 39645294657697,
+          "created_at": "2024-07-19T19:38:45+05:30",
+          "position": 1,
+          "updated_at": "2024-07-19T19:38:47+05:30",
+          "product_id": 7320022220961,
+          "variant_ids": [45880084791457],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Vit16New.png?v=1721398127",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 40089292865697,
+          "created_at": "2024-09-16T18:01:02+05:30",
+          "position": 2,
+          "updated_at": "2024-09-16T18:01:03+05:30",
+          "product_id": 7320022220961,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Vitamin_C_E_02.png?v=1726489863",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 40089292898465,
+          "created_at": "2024-09-16T18:01:02+05:30",
+          "position": 3,
+          "updated_at": "2024-09-16T18:01:04+05:30",
+          "product_id": 7320022220961,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Vitamin_C_E_03.png?v=1726489864",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 40089292931233,
+          "created_at": "2024-09-16T18:01:02+05:30",
+          "position": 4,
+          "updated_at": "2024-09-16T18:01:04+05:30",
+          "product_id": 7320022220961,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Vitamin_C_E_04.png?v=1726489864",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 40089292964001,
+          "created_at": "2024-09-16T18:01:03+05:30",
+          "position": 5,
+          "updated_at": "2024-09-16T18:01:04+05:30",
+          "product_id": 7320022220961,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Vitamin_C_E_05.png?v=1726489864",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 40089292996769,
+          "created_at": "2024-09-16T18:01:00+05:30",
+          "position": 6,
+          "updated_at": "2024-09-16T18:01:01+05:30",
+          "product_id": 7320022220961,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Vitamin_C_E_06.png?v=1726489861",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 44283657683105,
+          "created_at": "2026-07-06T17:35:46+05:30",
+          "position": 7,
+          "updated_at": "2026-07-06T17:35:47+05:30",
+          "product_id": 7320022220961,
+          "variant_ids": [45880084824225],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Vit_C_E_Ferulic_Serum_10ml.png?v=1783339547",
+          "width": 840,
+          "height": 1260
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "20ml",
+            "10ml"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7341493944481,
+      "title": "B12 + Oat Extract 6.5% Gentle Cleanser",
+      "handle": "oat-extract-06-gentle-cleanser",
+      "body_html": "\u003Cp\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E AM / PM\u003Cbr\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E Everyday\u003C/span\u003E\u003C/p\u003E",
+      "published_at": "2022-04-29T16:36:41+05:30",
+      "created_at": "2022-04-19T00:36:29+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "Anti-inflammatory",
+        "Cleanser",
+        "Face Wash",
+        "Facewash",
+        "score:99",
+        "Sensitive Skincare",
+        "skincare",
+        "summer"
+      ],
+      "variants": [
+        {
+          "id": 45220519280801,
+          "title": "120ml",
+          "option1": "120ml",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100528",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 44264776728737,
+            "product_id": 7341493944481,
+            "position": 1,
+            "created_at": "2026-07-03T18:08:49+05:30",
+            "updated_at": "2026-07-03T18:33:19+05:30",
+            "alt": "B12 + Oat Extract 6.5%",
+            "width": 1100,
+            "height": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/B12_Oat_Extract_6.5.jpg?v=1783083799",
+            "variant_ids": [45220519280801]
+          },
+          "available": true,
+          "price": "284.00",
+          "grams": 200,
+          "compare_at_price": "299.00",
+          "position": 1,
+          "product_id": 7341493944481,
+          "created_at": "2025-10-17T21:57:11+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 44264776728737,
+          "created_at": "2026-07-03T18:08:49+05:30",
+          "position": 1,
+          "updated_at": "2026-07-03T18:33:19+05:30",
+          "product_id": 7341493944481,
+          "variant_ids": [45220519280801],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/B12_Oat_Extract_6.5.jpg?v=1783083799",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 44376823234721,
+          "created_at": "2026-07-14T15:38:22+05:30",
+          "position": 2,
+          "updated_at": "2026-07-14T15:38:24+05:30",
+          "product_id": 7341493944481,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Copy_of_Untitled-1Artboard_1.jpg?v=1784023704",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 44376823201953,
+          "created_at": "2026-07-14T15:38:22+05:30",
+          "position": 3,
+          "updated_at": "2026-07-14T15:38:24+05:30",
+          "product_id": 7341493944481,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Copy_of_Untitled-1Artboard_2.jpg?v=1784023704",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 44376823267489,
+          "created_at": "2026-07-14T15:38:22+05:30",
+          "position": 4,
+          "updated_at": "2026-07-14T15:38:23+05:30",
+          "product_id": 7341493944481,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Copy_of_Untitled-1Artboard_3.jpg?v=1784023703",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 44376823300257,
+          "created_at": "2026-07-14T15:38:23+05:30",
+          "position": 5,
+          "updated_at": "2026-07-14T15:38:24+05:30",
+          "product_id": 7341493944481,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Copy_of_Untitled-1Artboard_9.jpg?v=1784023704",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "120ml"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7883925880993,
+      "title": "Light Fluid SPF 50 Sunscreen",
+      "handle": "light-fluid-spf-50-sunscreen",
+      "body_html": "\u003Cmeta charset=\"utf-8\"\u003E\n\u003Cp\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E AM\u003Cbr\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E Everyday\u003C/span\u003E\u003C/p\u003E",
+      "published_at": "2024-03-08T18:45:24+05:30",
+      "created_at": "2024-03-04T12:30:26+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "score:99",
+        "SPF",
+        "summer",
+        "Sun damage",
+        "Sunscreen",
+        "uv filters",
+        "wizzy_product_boost"
+      ],
+      "variants": [
+        {
+          "id": 45875483115681,
+          "title": "30ml",
+          "option1": "30ml",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128101174",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 44331328471201,
+            "product_id": 7883925880993,
+            "position": 5,
+            "created_at": "2026-07-09T18:00:35+05:30",
+            "updated_at": "2026-07-09T18:00:37+05:30",
+            "alt": null,
+            "width": 840,
+            "height": 1260,
+            "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Light_Fluid_SPF_50_-30ml.png?v=1783600237",
+            "variant_ids": [45875483115681]
+          },
+          "available": true,
+          "price": "332.00",
+          "grams": 100,
+          "compare_at_price": "349.00",
+          "position": 1,
+          "product_id": 7883925880993,
+          "created_at": "2026-03-31T11:32:20+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        },
+        {
+          "id": 45875483082913,
+          "title": "50ml",
+          "option1": "50ml",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128101143",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 44281161646241,
+            "product_id": 7883925880993,
+            "position": 1,
+            "created_at": "2026-07-06T13:15:06+05:30",
+            "updated_at": "2026-07-06T13:15:07+05:30",
+            "alt": null,
+            "width": 1110,
+            "height": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Artboard_1_1.jpg?v=1783323907",
+            "variant_ids": [45875483082913]
+          },
+          "available": true,
+          "price": "474.00",
+          "grams": 100,
+          "compare_at_price": "499.00",
+          "position": 2,
+          "product_id": 7883925880993,
+          "created_at": "2026-03-31T11:32:20+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        },
+        {
+          "id": 45880101503137,
+          "title": "100ml",
+          "option1": "100ml",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128101884",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 44331328012449,
+            "product_id": 7883925880993,
+            "position": 6,
+            "created_at": "2026-07-09T18:00:17+05:30",
+            "updated_at": "2026-07-09T18:00:19+05:30",
+            "alt": null,
+            "width": 840,
+            "height": 1260,
+            "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Light_Fluid_SPF_50_-100ml.png?v=1783600219",
+            "variant_ids": [45880101503137]
+          },
+          "available": true,
+          "price": "854.00",
+          "grams": 100,
+          "compare_at_price": "899.00",
+          "position": 3,
+          "product_id": 7883925880993,
+          "created_at": "2026-04-01T12:58:33+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 44281161646241,
+          "created_at": "2026-07-06T13:15:06+05:30",
+          "position": 1,
+          "updated_at": "2026-07-06T13:15:07+05:30",
+          "product_id": 7883925880993,
+          "variant_ids": [45875483082913],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Artboard_1_1.jpg?v=1783323907",
+          "width": 1110,
+          "height": 1600
+        },
+        {
+          "id": 44281161711777,
+          "created_at": "2026-07-06T13:15:06+05:30",
+          "position": 2,
+          "updated_at": "2026-07-06T13:15:08+05:30",
+          "product_id": 7883925880993,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/4_2.jpg?v=1783323908",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 44281161744545,
+          "created_at": "2026-07-06T13:15:06+05:30",
+          "position": 3,
+          "updated_at": "2026-07-06T13:15:08+05:30",
+          "product_id": 7883925880993,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/9_2.jpg?v=1783323908",
+          "width": 1110,
+          "height": 1600
+        },
+        {
+          "id": 44281161679009,
+          "created_at": "2026-07-06T13:15:06+05:30",
+          "position": 4,
+          "updated_at": "2026-07-06T13:15:07+05:30",
+          "product_id": 7883925880993,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/10_1.jpg?v=1783323907",
+          "width": 1110,
+          "height": 1600
+        },
+        {
+          "id": 44331328471201,
+          "created_at": "2026-07-09T18:00:35+05:30",
+          "position": 5,
+          "updated_at": "2026-07-09T18:00:37+05:30",
+          "product_id": 7883925880993,
+          "variant_ids": [45875483115681],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Light_Fluid_SPF_50_-30ml.png?v=1783600237",
+          "width": 840,
+          "height": 1260
+        },
+        {
+          "id": 44331328012449,
+          "created_at": "2026-07-09T18:00:17+05:30",
+          "position": 6,
+          "updated_at": "2026-07-09T18:00:19+05:30",
+          "product_id": 7883925880993,
+          "variant_ids": [45880101503137],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Light_Fluid_SPF_50_-100ml.png?v=1783600219",
+          "width": 840,
+          "height": 1260
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "30ml",
+            "50ml",
+            "100ml"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6640450961569,
+      "title": "Retinol 0.3% Face Serum",
+      "handle": "retinol-0-3-q10",
+      "body_html": "\u003Cp\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E PM\u003Cbr\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E Alternate days\u003C/span\u003E\u003C/p\u003E",
+      "published_at": "2021-04-02T19:58:48+05:30",
+      "created_at": "2021-04-01T16:58:29+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "Anti-aging",
+        "Fine lines",
+        "score:99",
+        "treat",
+        "winter"
+      ],
+      "variants": [
+        {
+          "id": 45154872230049,
+          "title": "30ml",
+          "option1": "30ml",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100184",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "569.00",
+          "grams": 150,
+          "compare_at_price": "599.00",
+          "position": 1,
+          "product_id": 6640450961569,
+          "created_at": "2025-09-23T13:26:11+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        },
+        {
+          "id": 45154872262817,
+          "title": "10ml",
+          "option1": "10ml",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128101105",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "237.00",
+          "grams": 150,
+          "compare_at_price": "249.00",
+          "position": 2,
+          "product_id": 6640450961569,
+          "created_at": "2025-09-23T13:26:11+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 39645278732449,
+          "created_at": "2024-07-19T19:38:47+05:30",
+          "position": 1,
+          "updated_at": "2024-07-19T19:38:49+05:30",
+          "product_id": 6640450961569,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Reti3New.png?v=1721398129",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926818275489,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 2,
+          "updated_at": "2024-08-27T18:34:32+05:30",
+          "product_id": 6640450961569,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Retinol_03_2.png?v=1724763872",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926818308257,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 3,
+          "updated_at": "2024-08-27T18:34:32+05:30",
+          "product_id": 6640450961569,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Retinol_03_3.png?v=1724763872",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926818341025,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 4,
+          "updated_at": "2024-08-27T18:34:32+05:30",
+          "product_id": 6640450961569,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Retinol_03_4.png?v=1724763872",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "30ml",
+            "10ml"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5996232999073,
+      "title": "Polyhydroxy Acid (PHA) 3% Face Toner",
+      "handle": "pha-3-biotic-toner",
+      "body_html": "\u003Cp\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E AM / PM\u003Cbr\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E Everyday\u003C/span\u003E\u003C/p\u003E",
+      "published_at": "2021-01-08T20:57:41+05:30",
+      "created_at": "2021-01-05T14:31:25+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "Exfoliation",
+        "Pore tightening",
+        "pores",
+        "score:99",
+        "Toner"
+      ],
+      "variants": [
+        {
+          "id": 37451276484769,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100160",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "379.00",
+          "grams": 200,
+          "compare_at_price": "399.00",
+          "position": 1,
+          "product_id": 5996232999073,
+          "created_at": "2021-01-05T14:31:25+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 39642969571489,
+          "created_at": "2024-07-19T14:23:09+05:30",
+          "position": 1,
+          "updated_at": "2024-07-19T14:23:11+05:30",
+          "product_id": 5996232999073,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/PHANew.jpg?v=1721379191",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926819225761,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 2,
+          "updated_at": "2024-08-27T18:34:32+05:30",
+          "product_id": 5996232999073,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/PHA_2.png?v=1724763872",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926819258529,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 3,
+          "updated_at": "2024-08-27T18:34:32+05:30",
+          "product_id": 5996232999073,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/PHA_3.png?v=1724763872",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926819291297,
+          "created_at": "2024-08-27T18:34:31+05:30",
+          "position": 4,
+          "updated_at": "2024-08-27T18:34:32+05:30",
+          "product_id": 5996232999073,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/PHA_4.png?v=1724763872",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926819324065,
+          "created_at": "2024-08-27T18:34:29+05:30",
+          "position": 5,
+          "updated_at": "2024-08-27T18:34:30+05:30",
+          "product_id": 5996232999073,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/PHA_6.png?v=1724763870",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5396381073569,
+      "title": "Hyaluronic + PGA 2% Face Serum",
+      "handle": "2-hyaluronic-acid",
+      "body_html": "\u003Cdiv class=\"shogun-root\" data-shogun-id=\"6277cdc3a3648600ccd5b045\" data-shogun-site-id=\"2c7d8b2c-a2e7-482d-97dd-d0d77addeb34\" data-shogun-page-id=\"6277cdc3a3648600ccd5b045\" data-shogun-page-version-id=\"6277cdc3a3648600ccd5b044\" data-shogun-platform-type=\"shopify\" data-shogun-variant-id=\"6277cdc3a3648600ccd5b046\" data-region=\"main\"\u003E\n\u003Cdiv id=\"s-0ea9713a-2a9c-4c3b-8e07-68159c812610\" class=\"shg-c\"\u003E\n\u003Cmeta charset=\"utf-8\"\u003E\n\u003Cp data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E AM / PM\u003Cbr data-mce-fragment=\"1\"\u003E\u003C/p\u003E\n\u003Cp data-mce-fragment=\"1\"\u003E\u003Cspan data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E Everyday\u003C/span\u003E\u003C/p\u003E\n\u003C/div\u003E\n\u003C/div\u003E",
+      "published_at": "2020-07-16T20:47:28+05:30",
+      "created_at": "2020-07-16T20:47:26+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "dry skin",
+        "dryness",
+        "Fine lines",
+        "Hydration",
+        "score:99",
+        "summer",
+        "treat",
+        "winter"
+      ],
+      "variants": [
+        {
+          "id": 45879886807201,
+          "title": "30ml",
+          "option1": "30ml",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100061",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 33343319441569,
+            "product_id": 5396381073569,
+            "position": 1,
+            "created_at": "2022-03-04T17:42:40+05:30",
+            "updated_at": "2022-03-04T17:42:42+05:30",
+            "alt": null,
+            "width": 1100,
+            "height": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/products/HAPGA2_1200-1-min.png?v=1646395962",
+            "variant_ids": [45879886807201]
+          },
+          "available": true,
+          "price": "569.00",
+          "grams": 60,
+          "compare_at_price": "599.00",
+          "position": 1,
+          "product_id": 5396381073569,
+          "created_at": "2026-04-01T12:02:06+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        },
+        {
+          "id": 45879886839969,
+          "title": "10ml",
+          "option1": "10ml",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128101921",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 44331338432673,
+            "product_id": 5396381073569,
+            "position": 7,
+            "created_at": "2026-07-09T18:07:08+05:30",
+            "updated_at": "2026-07-09T18:07:10+05:30",
+            "alt": null,
+            "width": 840,
+            "height": 1260,
+            "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Hyaluronic_PGA_Serum_10ml.png?v=1783600630",
+            "variant_ids": [45879886839969]
+          },
+          "available": true,
+          "price": "237.00",
+          "grams": 60,
+          "compare_at_price": "249.00",
+          "position": 2,
+          "product_id": 5396381073569,
+          "created_at": "2026-04-01T12:02:06+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 33343319441569,
+          "created_at": "2022-03-04T17:42:40+05:30",
+          "position": 1,
+          "updated_at": "2022-03-04T17:42:42+05:30",
+          "product_id": 5396381073569,
+          "variant_ids": [45879886807201],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/products/HAPGA2_1200-1-min.png?v=1646395962",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 40089254494369,
+          "created_at": "2024-09-16T18:01:02+05:30",
+          "position": 2,
+          "updated_at": "2024-09-16T18:01:03+05:30",
+          "product_id": 5396381073569,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Hyaluronic_PGA_02.png?v=1726489863",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 40089254527137,
+          "created_at": "2024-09-16T18:01:02+05:30",
+          "position": 3,
+          "updated_at": "2024-09-16T18:01:03+05:30",
+          "product_id": 5396381073569,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Hyaluronic_PGA_03.png?v=1726489863",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 40089254592673,
+          "created_at": "2024-09-16T18:01:02+05:30",
+          "position": 4,
+          "updated_at": "2024-09-16T18:01:04+05:30",
+          "product_id": 5396381073569,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Hyaluronic_PGA_04.png?v=1726489864",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 40089254658209,
+          "created_at": "2024-09-16T18:01:02+05:30",
+          "position": 5,
+          "updated_at": "2024-09-16T18:01:04+05:30",
+          "product_id": 5396381073569,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Hyaluronic_PGA_05.png?v=1726489864",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 40089254690977,
+          "created_at": "2024-09-16T18:01:00+05:30",
+          "position": 6,
+          "updated_at": "2024-09-16T18:01:01+05:30",
+          "product_id": 5396381073569,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Hyaluronic_PGA_06.png?v=1726489861",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 44331338432673,
+          "created_at": "2026-07-09T18:07:08+05:30",
+          "position": 7,
+          "updated_at": "2026-07-09T18:07:10+05:30",
+          "product_id": 5396381073569,
+          "variant_ids": [45879886839969],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Hyaluronic_PGA_Serum_10ml.png?v=1783600630",
+          "width": 840,
+          "height": 1260
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "30ml",
+            "10ml"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7781035704481,
+      "title": "Vitamin K + Retinal 1% Eye Cream",
+      "handle": "vitamin-k-retinal-01-eye-cream",
+      "body_html": "\u003Cp\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E\u003Cspan\u003E \u003C/span\u003EPM\u003Cbr\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E\u003Cspan\u003E \u003C/span\u003EEveryday\u003C/span\u003E\u003C/p\u003E",
+      "published_at": "2023-10-20T18:47:40+05:30",
+      "created_at": "2023-10-16T13:12:50+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "dark circles",
+        "eye cream",
+        "Fine lines",
+        "puffiness",
+        "score:99",
+        "under eye darkness",
+        "wizzy_product_boost",
+        "wrinkles"
+      ],
+      "variants": [
+        {
+          "id": 43332855267489,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100870",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "474.00",
+          "grams": 14,
+          "compare_at_price": "499.00",
+          "position": 1,
+          "product_id": 7781035704481,
+          "created_at": "2023-10-16T13:12:50+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 39663034564769,
+          "created_at": "2024-07-22T12:37:33+05:30",
+          "position": 1,
+          "updated_at": "2024-07-22T12:37:34+05:30",
+          "product_id": 7781035704481,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/KRetinalNew.png?v=1721632054",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 40089281855649,
+          "created_at": "2024-09-16T18:01:02+05:30",
+          "position": 2,
+          "updated_at": "2024-09-16T18:01:03+05:30",
+          "product_id": 7781035704481,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Vitamin_K_Eye_02.png?v=1726489863",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 40089281888417,
+          "created_at": "2024-09-16T18:01:02+05:30",
+          "position": 3,
+          "updated_at": "2024-09-16T18:01:03+05:30",
+          "product_id": 7781035704481,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Vitamin_K_Eye_03.png?v=1726489863",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 40089281921185,
+          "created_at": "2024-09-16T18:01:02+05:30",
+          "position": 4,
+          "updated_at": "2024-09-16T18:01:03+05:30",
+          "product_id": 7781035704481,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Vitamin_K_Eye_04.png?v=1726489863",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 40089281953953,
+          "created_at": "2024-09-16T18:01:00+05:30",
+          "position": 5,
+          "updated_at": "2024-09-16T18:01:01+05:30",
+          "product_id": 7781035704481,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Vitamin_K_Eye_06.png?v=1726489861",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7016745730209,
+      "title": "SPF 60 Sunscreen",
+      "handle": "spf-60-silymarin",
+      "body_html": "\u003Cmeta charset=\"utf-8\"\u003E\n\u003Cp\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E AM\u003Cbr\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E Everyday\u003C/span\u003E\u003C/p\u003E",
+      "published_at": "2021-10-01T18:39:43+05:30",
+      "created_at": "2021-09-28T23:21:32+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "Pregnancy Safe",
+        "score:99",
+        "SPF",
+        "Sun damage",
+        "Sunscreen",
+        "uv filters"
+      ],
+      "variants": [
+        {
+          "id": 40946129305761,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100375",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "569.00",
+          "grams": 100,
+          "compare_at_price": "599.00",
+          "position": 1,
+          "product_id": 7016745730209,
+          "created_at": "2021-09-28T23:21:32+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 33362567757985,
+          "created_at": "2022-03-06T18:36:08+05:30",
+          "position": 1,
+          "updated_at": "2022-03-06T18:36:09+05:30",
+          "product_id": 7016745730209,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/products/SPF601200-2-min.png?v=1646571969",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926808707233,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 2,
+          "updated_at": "2024-08-27T18:34:32+05:30",
+          "product_id": 7016745730209,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/SPF_60_2.png?v=1724763872",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926808740001,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 3,
+          "updated_at": "2024-08-27T18:34:32+05:30",
+          "product_id": 7016745730209,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/SPF_60_3.png?v=1724763872",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926808772769,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 4,
+          "updated_at": "2024-08-27T18:34:32+05:30",
+          "product_id": 7016745730209,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/SPF_60_4.png?v=1724763872",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7602009243809,
+      "title": "Glycolic Acid 8% Exfoliating Liquid",
+      "handle": "glycolic-acid-08-exfoliating-liquid-toner",
+      "body_html": "\u003Cp\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E\u003Cspan\u003E \u003C/span\u003EPM\u003Cbr\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E Twice a week\u003C/span\u003E\u003C/p\u003E",
+      "published_at": "2022-12-02T16:47:33+05:30",
+      "created_at": "2022-11-29T12:13:03+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "bamboo water",
+        "Dull Skin",
+        "Even tone",
+        "Exfoliation",
+        "glycolic acid",
+        "Pore tightening",
+        "score:99",
+        "Skin texture",
+        "Toner",
+        "uneven texture",
+        "uneven tone"
+      ],
+      "variants": [
+        {
+          "id": 42737950818465,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100740",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "474.00",
+          "grams": 200,
+          "compare_at_price": "499.00",
+          "position": 1,
+          "product_id": 7602009243809,
+          "created_at": "2022-11-29T12:13:03+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 39645257040033,
+          "created_at": "2024-07-19T19:38:47+05:30",
+          "position": 1,
+          "updated_at": "2024-07-19T19:38:48+05:30",
+          "product_id": 7602009243809,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/GlycolicNew.png?v=1721398128",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 40089270976673,
+          "created_at": "2024-09-16T18:01:02+05:30",
+          "position": 2,
+          "updated_at": "2024-09-16T18:01:04+05:30",
+          "product_id": 7602009243809,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Glycolic_Exfoliating_Liquid_08_04.png?v=1726489864",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 40089271009441,
+          "created_at": "2024-09-16T18:01:02+05:30",
+          "position": 3,
+          "updated_at": "2024-09-16T18:01:04+05:30",
+          "product_id": 7602009243809,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Glycolic_Exfoliating_Liquid_08_02.png?v=1726489864",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 40089271042209,
+          "created_at": "2024-09-16T18:01:02+05:30",
+          "position": 4,
+          "updated_at": "2024-09-16T18:01:04+05:30",
+          "product_id": 7602009243809,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Glycolic_Exfoliating_Liquid_08_03.png?v=1726489864",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8229362335905,
+      "title": "B12 + Repair Complex 5.5% Face Moisturizer",
+      "handle": "vitamin-b12-repair-complex-5-5-face-moisturizer",
+      "body_html": "\u003Cp\u003EA lightweight, fast-absorbing moisturizer that soothes irritation and strengthens the skin barrier. Powered by pure Vitamin B12 to calm redness, five essential ceramides to restore protection, and Vitamin B5 for deep, lasting hydration. Skin feels calm, plump, and revitalized.\u003C/p\u003E",
+      "published_at": "2025-05-16T18:41:42+05:30",
+      "created_at": "2025-05-15T11:45:24+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "Barrier Repair",
+        "dehydrated skin",
+        "Hydration",
+        "irritated skin",
+        "Moisturization",
+        "redness",
+        "Sensitive Skincare"
+      ],
+      "variants": [
+        {
+          "id": 45880165269665,
+          "title": "30g",
+          "option1": "30g",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128101860",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 44331352424609,
+            "product_id": 8229362335905,
+            "position": 9,
+            "created_at": "2026-07-09T18:24:03+05:30",
+            "updated_at": "2026-07-09T18:24:05+05:30",
+            "alt": null,
+            "width": 840,
+            "height": 1260,
+            "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/B12_Repair_Complex_30g_1.png?v=1783601645",
+            "variant_ids": [45880165269665]
+          },
+          "available": true,
+          "price": "284.00",
+          "grams": 0,
+          "compare_at_price": "299.00",
+          "position": 1,
+          "product_id": 8229362335905,
+          "created_at": "2026-04-01T13:04:35+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        },
+        {
+          "id": 45880165302433,
+          "title": "50g",
+          "option1": "50g",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128101747",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 41349625118881,
+            "product_id": 8229362335905,
+            "position": 1,
+            "created_at": "2025-05-15T18:50:53+05:30",
+            "updated_at": "2025-09-02T13:44:08+05:30",
+            "alt": "B12 + Repair Complex 5.5% Face Moisturizer",
+            "width": 1100,
+            "height": 1600,
+            "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/B12ListingImage.jpg?v=1756800848",
+            "variant_ids": [45880165302433]
+          },
+          "available": true,
+          "price": "379.00",
+          "grams": 0,
+          "compare_at_price": "399.00",
+          "position": 2,
+          "product_id": 8229362335905,
+          "created_at": "2026-04-01T13:04:35+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 41349625118881,
+          "created_at": "2025-05-15T18:50:53+05:30",
+          "position": 1,
+          "updated_at": "2025-09-02T13:44:08+05:30",
+          "product_id": 8229362335905,
+          "variant_ids": [45880165302433],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/B12ListingImage.jpg?v=1756800848",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 41354110140577,
+          "created_at": "2025-05-16T20:07:13+05:30",
+          "position": 2,
+          "updated_at": "2025-09-02T13:44:08+05:30",
+          "product_id": 8229362335905,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/B12Listing1.jpg?v=1756800848",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 41354110173345,
+          "created_at": "2025-05-16T20:07:13+05:30",
+          "position": 3,
+          "updated_at": "2025-09-02T13:44:08+05:30",
+          "product_id": 8229362335905,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/B12Listing4.jpg?v=1756800848",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 41354110304417,
+          "created_at": "2025-05-16T20:07:14+05:30",
+          "position": 4,
+          "updated_at": "2025-09-02T13:44:08+05:30",
+          "product_id": 8229362335905,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/B12Listing2.jpg?v=1756800848",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 41354110271649,
+          "created_at": "2025-05-16T20:07:13+05:30",
+          "position": 5,
+          "updated_at": "2025-09-02T13:44:08+05:30",
+          "product_id": 8229362335905,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/B12Listing3.jpg?v=1756800848",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 41354110206113,
+          "created_at": "2025-05-16T20:07:13+05:30",
+          "position": 6,
+          "updated_at": "2025-09-02T13:44:08+05:30",
+          "product_id": 8229362335905,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/B12Listing5.jpg?v=1756800848",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 41354110238881,
+          "created_at": "2025-05-16T20:07:13+05:30",
+          "position": 7,
+          "updated_at": "2025-09-02T13:44:08+05:30",
+          "product_id": 8229362335905,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/B12Listing6.jpg?v=1756800848",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 41354110337185,
+          "created_at": "2025-05-16T20:07:14+05:30",
+          "position": 8,
+          "updated_at": "2025-09-02T13:44:08+05:30",
+          "product_id": 8229362335905,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/B12Listing7.jpg?v=1756800848",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 44331352424609,
+          "created_at": "2026-07-09T18:24:03+05:30",
+          "position": 9,
+          "updated_at": "2026-07-09T18:24:05+05:30",
+          "product_id": 8229362335905,
+          "variant_ids": [45880165269665],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/B12_Repair_Complex_30g_1.png?v=1783601645",
+          "width": 840,
+          "height": 1260
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "30g",
+            "50g"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5396395229345,
+      "title": "AHA PHA BHA 32% Face Peel",
+      "handle": "aha-25-pha-5-bha-2",
+      "body_html": "\u003Cmeta charset=\"utf-8\"\u003E\n\u003Cp data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E PM\u003Cbr data-mce-fragment=\"1\"\u003E\u003C/p\u003E\n\u003Cp data-mce-fragment=\"1\"\u003E\u003Cspan data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E Once in 2 weeks\u003C/span\u003E\u003C/p\u003E\n\u003Cdiv id=\"gtx-trans\" style=\"position: absolute; left: -58px; top: 27.4px;\"\u003E\n\u003Cdiv class=\"gtx-trans-icon\"\u003E\u003C/div\u003E\n\u003C/div\u003E",
+      "published_at": "2020-07-16T20:50:33+05:30",
+      "created_at": "2020-07-16T20:50:32+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "dullness",
+        "Exfoliation",
+        "Fine lines",
+        "glycolic acid",
+        "Hyperpigmentation",
+        "lactic acid",
+        "peel",
+        "Pore cleaning",
+        "Pore tightening",
+        "Remove blackheads",
+        "salicylic acid",
+        "score:99",
+        "Skin texture",
+        "uneven texture",
+        "wrinkes"
+      ],
+      "variants": [
+        {
+          "id": 45154956607649,
+          "title": "30ml",
+          "option1": "30ml",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100122",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "664.00",
+          "grams": 60,
+          "compare_at_price": "699.00",
+          "position": 1,
+          "product_id": 5396395229345,
+          "created_at": "2025-09-23T14:51:10+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        },
+        {
+          "id": 45154956640417,
+          "title": "10ml",
+          "option1": "10ml",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128101044",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "284.00",
+          "grams": 60,
+          "compare_at_price": "299.00",
+          "position": 2,
+          "product_id": 5396395229345,
+          "created_at": "2025-09-23T14:51:10+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 33354891395233,
+          "created_at": "2022-03-05T17:17:34+05:30",
+          "position": 1,
+          "updated_at": "2022-03-05T17:17:36+05:30",
+          "product_id": 5396395229345,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/products/AHAPHABHA32_1200-1-min.png?v=1646480856",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785762160801,
+          "created_at": "2024-08-06T19:23:31+05:30",
+          "position": 2,
+          "updated_at": "2024-08-06T19:23:33+05:30",
+          "product_id": 5396395229345,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/AHA_PHA_BHA_2.png?v=1722952413",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785762193569,
+          "created_at": "2024-08-06T19:23:31+05:30",
+          "position": 3,
+          "updated_at": "2024-08-06T19:23:32+05:30",
+          "product_id": 5396395229345,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/AHA_PHA_BHA_3.png?v=1722952412",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785762226337,
+          "created_at": "2024-08-06T19:23:31+05:30",
+          "position": 4,
+          "updated_at": "2024-08-06T19:23:33+05:30",
+          "product_id": 5396395229345,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/AHA_PHA_BHA_4.png?v=1722952413",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785762128033,
+          "created_at": "2024-08-06T19:23:31+05:30",
+          "position": 5,
+          "updated_at": "2024-08-06T19:23:33+05:30",
+          "product_id": 5396395229345,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/AHA_PHA_BHA_5.png?v=1722952413",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785762259105,
+          "created_at": "2024-08-06T19:23:31+05:30",
+          "position": 6,
+          "updated_at": "2024-08-06T19:23:32+05:30",
+          "product_id": 5396395229345,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/AHA_PHA_BHA_6.png?v=1722952412",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "30ml",
+            "10ml"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7381191491745,
+      "title": "Alpha Lipoic + Glycolic 7% Cleanser",
+      "handle": "alpha-lipoic-glycolic-07-cleanser",
+      "body_html": "\u003Cp class=\"p1\" data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E\u003Cspan data-mce-fragment=\"1\"\u003E AM / PM\u003C/span\u003E\u003Cbr\u003E\u003Cspan class=\"s1\"\u003E\u003C/span\u003E\u003C/p\u003E\n\u003Cp class=\"p1\" data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency: \u003C/strong\u003EEveryday\u003C/p\u003E\n\u003Cmeta charset=\"utf-8\"\u003E",
+      "published_at": "2022-05-27T16:05:54+05:30",
+      "created_at": "2022-05-25T21:05:08+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "ALA",
+        "Brightening",
+        "Cleanser",
+        "Dull Skin",
+        "dullness",
+        "Even tone",
+        "Face Wash",
+        "Facewash",
+        "glycolic acid",
+        "lactic acid",
+        "rough skin",
+        "score:99",
+        "uneven texture",
+        "uneven tone",
+        "vitamin b5"
+      ],
+      "variants": [
+        {
+          "id": 41976816730273,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100535",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "379.00",
+          "grams": 140,
+          "compare_at_price": "399.00",
+          "position": 1,
+          "product_id": 7381191491745,
+          "created_at": "2022-05-25T21:05:08+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 39645199892641,
+          "created_at": "2024-07-19T19:33:57+05:30",
+          "position": 1,
+          "updated_at": "2025-05-01T19:10:17+05:30",
+          "product_id": 7381191491745,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/AlphaLipoicNew.png?v=1746106817",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785627844769,
+          "created_at": "2024-08-06T19:22:51+05:30",
+          "position": 2,
+          "updated_at": "2024-08-06T19:22:53+05:30",
+          "product_id": 7381191491745,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Alpha_Lipo_Cle_2.png?v=1722952373",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785627812001,
+          "created_at": "2024-08-06T19:22:51+05:30",
+          "position": 3,
+          "updated_at": "2024-08-06T19:22:53+05:30",
+          "product_id": 7381191491745,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Alpha_Lipo_Cle_3.png?v=1722952373",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785627779233,
+          "created_at": "2024-08-06T19:22:51+05:30",
+          "position": 4,
+          "updated_at": "2024-08-06T19:22:53+05:30",
+          "product_id": 7381191491745,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Alpha_Lipo_Cle_4.png?v=1722952373",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785627877537,
+          "created_at": "2024-08-06T19:22:51+05:30",
+          "position": 5,
+          "updated_at": "2024-08-06T19:22:52+05:30",
+          "product_id": 7381191491745,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Alpha_Lipo_Cle_6.png?v=1722952372",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7568688578721,
+      "title": "L-Ascorbic Acid 8% Lip Treatment Balm",
+      "handle": "l-ascorbic-acid-08-lip-treatment-balm",
+      "body_html": "\u003Cp\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E\u003Cspan\u003E \u003C/span\u003EAM / PM\u003Cbr\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E\u003Cspan\u003E \u003C/span\u003EEveryday\u003C/span\u003E\u003C/p\u003E",
+      "published_at": "2025-01-07T18:22:23+05:30",
+      "created_at": "2022-10-13T16:05:24+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "Dehydrated Lips",
+        "Hyperpigmentation",
+        "Lip",
+        "lip balm",
+        "lip pigmentation",
+        "score:99"
+      ],
+      "variants": [
+        {
+          "id": 42627378610337,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100696",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "379.00",
+          "grams": 12,
+          "compare_at_price": "399.00",
+          "position": 1,
+          "product_id": 7568688578721,
+          "created_at": "2022-10-13T16:05:24+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 39642933919905,
+          "created_at": "2024-07-19T14:23:08+05:30",
+          "position": 1,
+          "updated_at": "2024-07-19T14:23:09+05:30",
+          "product_id": 7568688578721,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/L-AscNew.jpg?v=1721379189",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 40089248759969,
+          "created_at": "2024-09-16T18:01:02+05:30",
+          "position": 2,
+          "updated_at": "2024-09-16T18:01:03+05:30",
+          "product_id": 7568688578721,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/L_Ascorbic_Lip_02.png?v=1726489863",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 40089248792737,
+          "created_at": "2024-09-16T18:01:02+05:30",
+          "position": 3,
+          "updated_at": "2024-09-16T18:01:03+05:30",
+          "product_id": 7568688578721,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/L_Ascorbic_Lip_03.png?v=1726489863",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 40089248825505,
+          "created_at": "2024-09-16T18:01:02+05:30",
+          "position": 4,
+          "updated_at": "2024-09-16T18:01:03+05:30",
+          "product_id": 7568688578721,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/L_Ascorbic_Lip_04.png?v=1726489863",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7350618128545,
+      "title": "Aquaporin Booster 5% Cleanser",
+      "handle": "aquaporin-booster-05-cleanser",
+      "body_html": "\u003Cp\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E AM / PM\u003Cbr\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E Everyday\u003C/span\u003E\u003C/p\u003E",
+      "published_at": "2022-04-29T16:36:37+05:30",
+      "created_at": "2022-04-25T18:47:43+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "aquaporin boosters",
+        "Cleanser",
+        "dehydrated skin",
+        "dryness",
+        "Face Wash",
+        "Facewash",
+        "hyaluronic acid",
+        "Hydration",
+        "lactic acid",
+        "score:99",
+        "skin tightness",
+        "wheat protein"
+      ],
+      "variants": [
+        {
+          "id": 41870498136225,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100474",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "284.00",
+          "grams": 200,
+          "compare_at_price": "299.00",
+          "position": 1,
+          "product_id": 7350618128545,
+          "created_at": "2022-04-25T18:47:43+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 39645238722721,
+          "created_at": "2024-07-19T19:38:46+05:30",
+          "position": 1,
+          "updated_at": "2024-07-19T19:38:48+05:30",
+          "product_id": 7350618128545,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/AquaporinNew.png?v=1721398128",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785633087649,
+          "created_at": "2024-08-06T19:22:33+05:30",
+          "position": 2,
+          "updated_at": "2024-08-06T19:22:35+05:30",
+          "product_id": 7350618128545,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Aqua_Booster_2.png?v=1722952355",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785633120417,
+          "created_at": "2024-08-06T19:22:33+05:30",
+          "position": 3,
+          "updated_at": "2024-08-06T19:22:35+05:30",
+          "product_id": 7350618128545,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Aqua_Booster_3.png?v=1722952355",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785633185953,
+          "created_at": "2024-08-06T19:22:33+05:30",
+          "position": 4,
+          "updated_at": "2024-08-06T19:22:35+05:30",
+          "product_id": 7350618128545,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Aqua_Booster_4.png?v=1722952355",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785633153185,
+          "created_at": "2024-08-06T19:22:33+05:30",
+          "position": 5,
+          "updated_at": "2024-08-06T19:22:34+05:30",
+          "product_id": 7350618128545,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Aqua_Booster_6.png?v=1722952354",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6057039691937,
+      "title": "Tranexamic 3% Face Serum",
+      "handle": "tranexamic-3-hpa",
+      "body_html": "\u003Cp\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E PM\u003Cbr\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E Alternate days\u003C/span\u003E\u003C/p\u003E",
+      "published_at": "2021-02-05T19:58:26+05:30",
+      "created_at": "2021-02-04T23:34:11+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "Dark spots",
+        "Even tone",
+        "Hyperpigmentation",
+        "Melasma",
+        "score:99",
+        "treat"
+      ],
+      "variants": [
+        {
+          "id": 37671264059553,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100177",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "617.00",
+          "grams": 100,
+          "compare_at_price": "649.00",
+          "position": 1,
+          "product_id": 6057039691937,
+          "created_at": "2021-02-04T23:34:11+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 39645292920993,
+          "created_at": "2024-07-19T19:38:46+05:30",
+          "position": 1,
+          "updated_at": "2024-07-19T19:38:47+05:30",
+          "product_id": 6057039691937,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/TranNew.png?v=1721398127",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926792224929,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 2,
+          "updated_at": "2024-08-27T18:34:32+05:30",
+          "product_id": 6057039691937,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Tranexamic_03_2.png?v=1724763872",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926792257697,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 3,
+          "updated_at": "2024-08-27T18:34:31+05:30",
+          "product_id": 6057039691937,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Tranexamic_03_3.png?v=1724763871",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926792290465,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 4,
+          "updated_at": "2024-08-27T18:34:32+05:30",
+          "product_id": 6057039691937,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Tranexamic_03_4.png?v=1724763872",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926792323233,
+          "created_at": "2024-08-27T18:34:31+05:30",
+          "position": 5,
+          "updated_at": "2024-08-27T18:34:32+05:30",
+          "product_id": 6057039691937,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Tranexamic_03_5.png?v=1724763872",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926792356001,
+          "created_at": "2024-08-27T18:34:29+05:30",
+          "position": 6,
+          "updated_at": "2024-08-27T18:34:30+05:30",
+          "product_id": 6057039691937,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Tranexamic_03_6.png?v=1724763870",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7416948949153,
+      "title": "Anti-Acne Skin Care Kit",
+      "handle": "anti-acne-kit",
+      "body_html": "Combo kit for fighting active acne and skin oiliness",
+      "published_at": "2022-06-19T12:22:14+05:30",
+      "created_at": "2022-06-19T12:16:50+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "Acne-marks",
+        "Anti-acne",
+        "Cleanser",
+        "Kit",
+        "lactic acid",
+        "Moisturization",
+        "Oil balance",
+        "oiliness",
+        "oligopeptide",
+        "Pore cleaning",
+        "Pore tightening",
+        "Remove blackheads",
+        "salicylic acid",
+        "score:98",
+        "serum",
+        "vitamin b5"
+      ],
+      "variants": [
+        {
+          "id": 42092750930081,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100573",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "1019.00",
+          "grams": 300,
+          "compare_at_price": "1199.00",
+          "position": 1,
+          "product_id": 7416948949153,
+          "created_at": "2022-06-19T12:16:51+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 39624568897697,
+          "created_at": "2024-07-17T18:57:07+05:30",
+          "position": 1,
+          "updated_at": "2024-07-17T18:57:08+05:30",
+          "product_id": 7416948949153,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/AntiAcneListing.png?v=1721222828",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 34360566186145,
+          "created_at": "2022-06-19T12:20:35+05:30",
+          "position": 2,
+          "updated_at": "2024-07-17T19:55:44+05:30",
+          "product_id": 7416948949153,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/products/MinimalistAntiAcneSolution1200-1Copy2-min.png?v=1721226344",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7568687366305,
+      "title": "Lip Balm SPF 30",
+      "handle": "lip-balm-spf-30",
+      "body_html": "\u003Cp class=\"p1\"\u003E\u003Cspan class=\"s1\"\u003EProtects lips from harmful UV rays &amp; also nourishes dry, chapped lips\u003C/span\u003E\u003C/p\u003E",
+      "published_at": "2022-10-14T11:23:58+05:30",
+      "created_at": "2022-10-13T16:04:18+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "Lip",
+        "lip balm",
+        "score:99",
+        "SPF",
+        "summer",
+        "Sun damage",
+        "Sunscreen",
+        "uv filters",
+        "winter"
+      ],
+      "variants": [
+        {
+          "id": 42627377004705,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100689",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "284.00",
+          "grams": 100,
+          "compare_at_price": "299.00",
+          "position": 1,
+          "product_id": 7568687366305,
+          "created_at": "2022-10-13T16:04:18+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 39642940571809,
+          "created_at": "2024-07-19T14:23:08+05:30",
+          "position": 1,
+          "updated_at": "2024-07-19T14:23:09+05:30",
+          "product_id": 7568687366305,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/LipBalm30New.jpg?v=1721379189",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 40089242271905,
+          "created_at": "2024-09-16T18:01:02+05:30",
+          "position": 2,
+          "updated_at": "2024-09-16T18:01:03+05:30",
+          "product_id": 7568687366305,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Lip_Balm_02.png?v=1726489863",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 40089242304673,
+          "created_at": "2024-09-16T18:01:01+05:30",
+          "position": 3,
+          "updated_at": "2024-09-16T18:01:03+05:30",
+          "product_id": 7568687366305,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Lip_Balm_03.png?v=1726489863",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 40089242337441,
+          "created_at": "2024-09-16T18:01:01+05:30",
+          "position": 4,
+          "updated_at": "2024-09-16T18:01:03+05:30",
+          "product_id": 7568687366305,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Lip_Balm_04.png?v=1726489863",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5396390248609,
+      "title": "AHA BHA 10% Face Exfoliator",
+      "handle": "aha-bha-10",
+      "body_html": "\u003Cp\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E PM\u003Cbr\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E Alternate days\u003C/span\u003E\u003Cbr\u003E\u003C/p\u003E",
+      "published_at": "2020-07-16T20:49:24+05:30",
+      "created_at": "2020-07-16T20:49:22+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "aha",
+        "bha",
+        "Dark spots",
+        "Dull Skin",
+        "Exfoliation",
+        "glycolic acid",
+        "Hydration",
+        "lactic acid",
+        "roughness",
+        "salicylic acid",
+        "score:99",
+        "serum",
+        "Skin texture",
+        "Sun damage",
+        "treat",
+        "uneven texture"
+      ],
+      "variants": [
+        {
+          "id": 35105775943841,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100047",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "569.00",
+          "grams": 60,
+          "compare_at_price": "599.00",
+          "position": 1,
+          "product_id": 5396390248609,
+          "created_at": "2020-07-16T20:49:22+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 33406964695201,
+          "created_at": "2022-03-11T18:39:41+05:30",
+          "position": 1,
+          "updated_at": "2022-03-11T18:39:42+05:30",
+          "product_id": 5396390248609,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/products/aha-bha-10-1200--1min-1645781661616.png?v=1647004182",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785613263009,
+          "created_at": "2024-08-07T18:33:55+05:30",
+          "position": 2,
+          "updated_at": "2024-08-07T18:33:57+05:30",
+          "product_id": 5396390248609,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/AHA_BHA_2.png?v=1723035837",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39778531901601,
+          "created_at": "2024-08-06T18:30:08+05:30",
+          "position": 3,
+          "updated_at": "2024-08-06T18:30:09+05:30",
+          "product_id": 5396390248609,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/AHA_BHA_3.png?v=1722949209",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39778531967137,
+          "created_at": "2024-08-06T18:30:08+05:30",
+          "position": 4,
+          "updated_at": "2024-08-06T18:30:09+05:30",
+          "product_id": 5396390248609,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/AHA_BHA_4.png?v=1722949209",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39778531934369,
+          "created_at": "2024-08-06T18:30:07+05:30",
+          "position": 5,
+          "updated_at": "2024-08-06T18:30:09+05:30",
+          "product_id": 5396390248609,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/AHA_BHA_6.png?v=1722949209",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5396387561633,
+      "title": "Granactive Retinoid 2% Face Cream",
+      "handle": "retinoid-2",
+      "body_html": "\u003Cmeta charset=\"utf-8\"\u003E\n\u003Cp data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E PM\u003Cbr data-mce-fragment=\"1\"\u003E\u003C/p\u003E\n\u003Cp data-mce-fragment=\"1\"\u003E\u003Cspan data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E Twice a week\u003C/span\u003E\u003C/p\u003E",
+      "published_at": "2020-07-16T20:48:47+05:30",
+      "created_at": "2020-07-16T20:48:45+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "17 amino acid",
+        "Anti-aging",
+        "Fine lines",
+        "granactive retinoid",
+        "hyaluronic acid",
+        "loss of elasticity",
+        "score:99",
+        "Skin texture",
+        "Sun damage",
+        "treat",
+        "uneven tone",
+        "wrinkles"
+      ],
+      "variants": [
+        {
+          "id": 35105766801569,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100023",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "664.00",
+          "grams": 60,
+          "compare_at_price": "699.00",
+          "position": 1,
+          "product_id": 5396387561633,
+          "created_at": "2020-07-16T20:48:46+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 41089399914657,
+          "created_at": "2025-02-25T10:58:58+05:30",
+          "position": 1,
+          "updated_at": "2025-02-25T10:58:59+05:30",
+          "product_id": 5396387561633,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/1_c3454d37-fbd5-4972-8e70-65df1c3ec8de.jpg?v=1740461339",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 41089400111265,
+          "created_at": "2025-02-25T10:58:59+05:30",
+          "position": 2,
+          "updated_at": "2025-02-25T10:59:00+05:30",
+          "product_id": 5396387561633,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/2_fc666428-dce9-457d-97a9-b2fabc1017e8.jpg?v=1740461340",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 41089399980193,
+          "created_at": "2025-02-25T10:58:58+05:30",
+          "position": 3,
+          "updated_at": "2025-02-25T10:59:00+05:30",
+          "product_id": 5396387561633,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/3_d160f33d-0e72-4a87-ab6d-5f98448f5292.jpg?v=1740461340",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 41089400012961,
+          "created_at": "2025-02-25T10:58:58+05:30",
+          "position": 4,
+          "updated_at": "2025-02-25T10:59:00+05:30",
+          "product_id": 5396387561633,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/4_2967c895-0f61-4713-8b14-4db6c73ce676.jpg?v=1740461340",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 41089400078497,
+          "created_at": "2025-02-25T10:58:58+05:30",
+          "position": 5,
+          "updated_at": "2025-02-25T10:59:00+05:30",
+          "product_id": 5396387561633,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/5_c7d92af4-a90f-4111-a510-70798220d054.jpg?v=1740461340",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 41089399947425,
+          "created_at": "2025-02-25T10:58:58+05:30",
+          "position": 6,
+          "updated_at": "2025-02-25T10:59:00+05:30",
+          "product_id": 5396387561633,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/6_20af9d12-ea98-4116-b353-023b11e164db.jpg?v=1740461340",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 41089400045729,
+          "created_at": "2025-02-25T10:58:58+05:30",
+          "position": 7,
+          "updated_at": "2025-02-25T10:59:00+05:30",
+          "product_id": 5396387561633,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/7_0be09c7f-1d7f-4fa9-9943-57ef69d7fb1c.jpg?v=1740461340",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5835796054177,
+      "title": "Multi-Peptides 10% Face Serum",
+      "handle": "multi-peptide-serum-7-matrixyl-3000-3-bio-placenta",
+      "body_html": "\u003Cp\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E PM\u003Cbr\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E Everyday\u003C/span\u003E\u003C/p\u003E",
+      "published_at": "2020-10-31T18:41:56+05:30",
+      "created_at": "2020-10-31T18:28:04+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "Anti-aging",
+        "Fine lines",
+        "Hydration",
+        "score:99",
+        "treat"
+      ],
+      "variants": [
+        {
+          "id": 36853537013921,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100146",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "664.00",
+          "grams": 100,
+          "compare_at_price": "699.00",
+          "position": 1,
+          "product_id": 5835796054177,
+          "created_at": "2020-10-31T18:28:05+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 39645271949473,
+          "created_at": "2024-07-19T19:38:47+05:30",
+          "position": 1,
+          "updated_at": "2024-07-19T19:38:48+05:30",
+          "product_id": 5835796054177,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/MultiNew.png?v=1721398128",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785675128993,
+          "created_at": "2024-08-06T19:05:02+05:30",
+          "position": 2,
+          "updated_at": "2024-08-06T19:05:04+05:30",
+          "product_id": 5835796054177,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Multi_Peptide_2.png?v=1722951304",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785675096225,
+          "created_at": "2024-08-06T19:05:02+05:30",
+          "position": 3,
+          "updated_at": "2024-08-06T19:05:04+05:30",
+          "product_id": 5835796054177,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Multi_Peptide_3.png?v=1722951304",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39805693296801,
+          "created_at": "2024-08-12T11:58:12+05:30",
+          "position": 4,
+          "updated_at": "2024-08-12T11:58:14+05:30",
+          "product_id": 5835796054177,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Multi_Peptide_4.png?v=1723444094",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785675161761,
+          "created_at": "2024-08-07T18:31:54+05:30",
+          "position": 5,
+          "updated_at": "2024-08-07T18:31:56+05:30",
+          "product_id": 5835796054177,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Multi_Peptide_6.png?v=1723035716",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7187419332769,
+      "title": "Ceramides 0.3% + Madecassoside Moisturizer",
+      "handle": "ceramides-0-3-madecassoside",
+      "body_html": "\u003Cp\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E AM / PM\u003Cbr\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E Everyday\u003C/span\u003E\u003C/p\u003E",
+      "published_at": "2021-12-24T19:00:51+05:30",
+      "created_at": "2021-12-24T01:20:46+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "Barrier Repair",
+        "ceramides",
+        "Hydration",
+        "irritated skin",
+        "madecassoside",
+        "Moisturization",
+        "oiliness",
+        "Repair",
+        "score:99",
+        "ursolic acid",
+        "winter"
+      ],
+      "variants": [
+        {
+          "id": 41378422882465,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100429",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "569.00",
+          "grams": 100,
+          "compare_at_price": "599.00",
+          "position": 1,
+          "product_id": 7187419332769,
+          "created_at": "2021-12-24T01:20:46+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 39645250683041,
+          "created_at": "2024-07-19T19:38:46+05:30",
+          "position": 1,
+          "updated_at": "2024-07-19T19:38:48+05:30",
+          "product_id": 7187419332769,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Ceramide_Madecassoside.png?v=1721398128",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785641410721,
+          "created_at": "2024-08-06T19:22:07+05:30",
+          "position": 2,
+          "updated_at": "2024-08-06T19:22:09+05:30",
+          "product_id": 7187419332769,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Ceramide_Made_2.png?v=1722952329",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785641345185,
+          "created_at": "2024-08-06T19:22:08+05:30",
+          "position": 3,
+          "updated_at": "2024-08-06T19:22:09+05:30",
+          "product_id": 7187419332769,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Ceramide_Made_3.png?v=1722952329",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785641377953,
+          "created_at": "2024-08-06T19:22:08+05:30",
+          "position": 4,
+          "updated_at": "2024-08-06T19:22:09+05:30",
+          "product_id": 7187419332769,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Ceramide_Made_4.png?v=1722952329",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39785641443489,
+          "created_at": "2024-08-06T19:22:07+05:30",
+          "position": 5,
+          "updated_at": "2024-08-06T19:22:09+05:30",
+          "product_id": 7187419332769,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Ceramide_Made_6.png?v=1722952329",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8282613776545,
+      "title": "Niacinamide 5% Face Serum 10ml",
+      "handle": "niacinamide-5-face-serum-10ml",
+      "body_html": "\u003Cp\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E AM / PM\u003Cbr\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E Everyday\u003C/span\u003E\u003C/p\u003E",
+      "published_at": "2025-09-11T13:55:23+05:30",
+      "created_at": "2025-09-04T16:03:56+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "Acne-marks",
+        "Anti-inflammatory",
+        "Even tone",
+        "Fine lines",
+        "Hydration",
+        "Sun damage",
+        "treat",
+        "winter"
+      ],
+      "variants": [
+        {
+          "id": 45099558338721,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128101808",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "237.00",
+          "grams": 60,
+          "compare_at_price": "249.00",
+          "position": 1,
+          "product_id": 8282613776545,
+          "created_at": "2025-09-04T16:03:57+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 42011054866593,
+          "created_at": "2025-09-04T16:05:36+05:30",
+          "position": 1,
+          "updated_at": "2025-09-04T16:05:38+05:30",
+          "product_id": 8282613776545,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Nia_05_10ml_1_1e27f2ef-09d0-4140-bf9e-05d62459489e.jpg?v=1756982138",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42011054899361,
+          "created_at": "2025-09-04T16:05:36+05:30",
+          "position": 2,
+          "updated_at": "2025-09-04T16:05:38+05:30",
+          "product_id": 8282613776545,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Nia_05_10ml_2_679844da-c8e1-49a2-9db1-1f3c62249ce6.jpg?v=1756982138",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42011054932129,
+          "created_at": "2025-09-04T16:05:36+05:30",
+          "position": 3,
+          "updated_at": "2025-09-04T16:05:38+05:30",
+          "product_id": 8282613776545,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Nia_05_10ml_3_a7f8ebc3-e617-4db6-bb18-a274ad0940b4.jpg?v=1756982138",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42011054964897,
+          "created_at": "2025-09-04T16:05:36+05:30",
+          "position": 4,
+          "updated_at": "2025-09-04T16:05:38+05:30",
+          "product_id": 8282613776545,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Nia_05_10ml_4_9e4a143c-845a-4bee-a882-f7c9a07ce4e2.jpg?v=1756982138",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42011054997665,
+          "created_at": "2025-09-04T16:05:36+05:30",
+          "position": 5,
+          "updated_at": "2025-09-04T16:05:38+05:30",
+          "product_id": 8282613776545,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Nia_05_10ml_5_54a85f66-ec1f-49d7-96b4-c138814e3337.jpg?v=1756982138",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42011055030433,
+          "created_at": "2025-09-04T16:05:36+05:30",
+          "position": 6,
+          "updated_at": "2025-09-04T16:05:38+05:30",
+          "product_id": 8282613776545,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Nia_05_10ml_6_53289992-ab72-4cb6-9e4b-3461a51ef767.jpg?v=1756982138",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42011055063201,
+          "created_at": "2025-09-04T16:05:36+05:30",
+          "position": 7,
+          "updated_at": "2025-09-04T16:05:38+05:30",
+          "product_id": 8282613776545,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Nia_05_10ml_7_e6a48d51-b95f-4a5e-b2f7-c589f4e9acf2.jpg?v=1756982138",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42011055095969,
+          "created_at": "2025-09-04T16:05:36+05:30",
+          "position": 8,
+          "updated_at": "2025-09-04T16:05:38+05:30",
+          "product_id": 8282613776545,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Nia_05_10ml_8_7f57bf51-bdd2-4c70-948f-246ccd2791ab.jpg?v=1756982138",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7416933122209,
+      "title": "Oily Skincare Kit",
+      "handle": "oily-skincare-kit",
+      "body_html": "Perfect routine for reducing excess skin oiliness &amp; tightening pores",
+      "published_at": "2022-06-19T11:44:04+05:30",
+      "created_at": "2022-06-19T11:18:08+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "Kit",
+        "Oil balance",
+        "Pore cleaning",
+        "Pore tightening",
+        "score:98",
+        "vitamin b5"
+      ],
+      "variants": [
+        {
+          "id": 42092519751841,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100580",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "1062.00",
+          "grams": 300,
+          "compare_at_price": "1249.00",
+          "position": 1,
+          "product_id": 7416933122209,
+          "created_at": "2022-06-19T11:18:09+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 39624562573473,
+          "created_at": "2024-07-17T18:57:07+05:30",
+          "position": 1,
+          "updated_at": "2024-07-17T18:57:08+05:30",
+          "product_id": 7416933122209,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/OilySkinListing.png?v=1721222828",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 34360323539105,
+          "created_at": "2022-06-19T11:18:09+05:30",
+          "position": 2,
+          "updated_at": "2024-07-17T19:54:15+05:30",
+          "product_id": 7416933122209,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/products/MinimalistOilySkincareKit1200-1Copy2-min.png?v=1721226255",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8199723057313,
+      "title": "The Daily Radiance Ritual 3x Kit 50ml",
+      "handle": "the-daily-radiance-ritual-3x-kit-50ml",
+      "body_html": "\u003Cp\u003EIntroducing the \u003Cstrong\u003ERadiance Kit\u003C/strong\u003E—your ultimate glow-boosting trio for healthy, radiant skin. This kit includes the \u003Cstrong\u003EAlpha Lipoic+Glycolic Cleanser\u003C/strong\u003E, an everyday brightening cleanser with ALA to enhance skin tone and Glycolic Acid to exfoliate for a fresh, youthful look. Follow up with the \u003Cstrong\u003EVitamin C Serum\u003C/strong\u003E, packed with Vitamin C and Polyhydroxy Acid (PHA) to brighten sun-damaged, dull skin and fade dark spots. Complete your routine with the \u003Cstrong\u003ELight Fluid SPF 50\u003C/strong\u003E, a lightweight, water-resistant sunscreen with advanced UV filters like Tinosorb M and Uvinul A Plus, offering broad-spectrum protection without a white cast. Glow, protect, and renew with every step!\u003C/p\u003E",
+      "published_at": "2025-03-27T18:55:17+05:30",
+      "created_at": "2025-02-07T18:49:56+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44839457521825,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128101525",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "539.00",
+          "grams": 0,
+          "compare_at_price": "599.00",
+          "position": 1,
+          "product_id": 8199723057313,
+          "created_at": "2025-02-07T18:49:57+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 41200823959713,
+          "created_at": "2025-03-28T14:57:02+05:30",
+          "position": 1,
+          "updated_at": "2025-03-28T14:57:44+05:30",
+          "product_id": 8199723057313,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Artboard_3_copy_12.jpg?v=1743154064",
+          "width": 2500,
+          "height": 3438
+        },
+        {
+          "id": 41200823861409,
+          "created_at": "2025-03-28T14:57:02+05:30",
+          "position": 2,
+          "updated_at": "2025-03-28T14:57:44+05:30",
+          "product_id": 8199723057313,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Artboard_1_a6546bb4-e647-4422-b6a6-ab1a1f102c44.jpg?v=1743154064",
+          "width": 2500,
+          "height": 3438
+        },
+        {
+          "id": 41200823664801,
+          "created_at": "2025-03-28T14:57:01+05:30",
+          "position": 3,
+          "updated_at": "2025-03-28T14:58:07+05:30",
+          "product_id": 8199723057313,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Artboard_2_b4878843-91b4-4c10-854b-422aca202043.jpg?v=1743154087",
+          "width": 2500,
+          "height": 3438
+        },
+        {
+          "id": 41200823795873,
+          "created_at": "2025-03-28T14:57:01+05:30",
+          "position": 4,
+          "updated_at": "2025-03-28T14:58:07+05:30",
+          "product_id": 8199723057313,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Artboard_3_e8269b56-3f59-4c0c-afc3-54b1e7392c12.jpg?v=1743154087",
+          "width": 2500,
+          "height": 3438
+        },
+        {
+          "id": 41200823763105,
+          "created_at": "2025-03-28T14:57:01+05:30",
+          "position": 5,
+          "updated_at": "2025-03-28T14:58:07+05:30",
+          "product_id": 8199723057313,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Artboard_3_copy_3.jpg?v=1743154087",
+          "width": 2500,
+          "height": 3438
+        },
+        {
+          "id": 41016055955617,
+          "created_at": "2025-02-07T19:14:00+05:30",
+          "position": 6,
+          "updated_at": "2025-03-28T14:58:07+05:30",
+          "product_id": 8199723057313,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/SAN_3595.jpg?v=1743154087",
+          "width": 3318,
+          "height": 3833
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7460035330209,
+      "title": "Retinol 0.6% Face Serum",
+      "handle": "retinol-0-6",
+      "body_html": "Medium strength Retinol formula for fading fine lines &amp; wrinkles",
+      "published_at": "2025-01-07T18:22:50+05:30",
+      "created_at": "2022-07-19T10:42:00+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "Anti-aging",
+        "Fine lines",
+        "score:99",
+        "treat",
+        "winter"
+      ],
+      "variants": [
+        {
+          "id": 42262911975585,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100559",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "617.00",
+          "grams": 150,
+          "compare_at_price": "649.00",
+          "position": 1,
+          "product_id": 7460035330209,
+          "created_at": "2022-07-19T10:42:00+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 39645279715489,
+          "created_at": "2024-07-19T19:38:47+05:30",
+          "position": 1,
+          "updated_at": "2024-07-19T19:38:49+05:30",
+          "product_id": 7460035330209,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Retinol_06_New.png?v=1721398129",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926817882273,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 2,
+          "updated_at": "2024-08-27T18:34:32+05:30",
+          "product_id": 7460035330209,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Retinol_06_2.png?v=1724763872",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926817915041,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 3,
+          "updated_at": "2024-08-27T18:34:31+05:30",
+          "product_id": 7460035330209,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Retinol_06_3.png?v=1724763871",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926817947809,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 4,
+          "updated_at": "2024-08-27T18:34:32+05:30",
+          "product_id": 7460035330209,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Retinol_06_4.png?v=1724763872",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7504520347809,
+      "title": "Anti Pigmentation Skin Care Kit",
+      "handle": "anti-pigmentation-kit",
+      "body_html": "Routine for fading hyperpigmentation, acne marks, &amp; dark spots",
+      "published_at": "2022-08-20T20:45:43+05:30",
+      "created_at": "2022-08-20T20:37:29+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "Acne-marks",
+        "ALA",
+        "alpha arbutin",
+        "butylresorcinol",
+        "Cleanser",
+        "Dark spots",
+        "glycolic acid",
+        "Hyperpigmentation",
+        "Kit",
+        "lactic acid",
+        "niacinamide",
+        "score:98",
+        "serum",
+        "uv protection"
+      ],
+      "variants": [
+        {
+          "id": 42401424933025,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100665",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "1147.00",
+          "grams": 350,
+          "compare_at_price": "1349.00",
+          "position": 1,
+          "product_id": 7504520347809,
+          "created_at": "2022-08-20T20:37:29+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 39624333263009,
+          "created_at": "2024-07-17T18:57:07+05:30",
+          "position": 1,
+          "updated_at": "2024-07-17T18:57:08+05:30",
+          "product_id": 7504520347809,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/AntiPigmentationListing.png?v=1721222828",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 35054777925793,
+          "created_at": "2022-08-20T20:45:02+05:30",
+          "position": 2,
+          "updated_at": "2024-07-17T19:06:36+05:30",
+          "product_id": 7504520347809,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/products/MinimalistAntiPigmentationKit1200-1-min.png?v=1721223396",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8230423298209,
+      "title": "Barrier Repair Kit",
+      "handle": "skin-repair-kit",
+      "body_html": "\u003Cp\u003EIntroducing the Barrier Repair Ritual Kit — your 3-step solution for calm, hydrated, and barrier-strong skin. Start with the Oat Gentle Cleanser to remove dirt and excess oil while soothing sensitive skin. Follow with the Niacinamide Serum, a nourishing formula that hydrates and repairs without irritation. Finish with the moisturizer to deeply hydrate, calm redness, and strengthen the skin barrier.\u003C/p\u003E",
+      "published_at": "2025-05-16T16:19:35+05:30",
+      "created_at": "2025-05-16T11:06:47+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44927172903073,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128101754",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "492.00",
+          "grams": 0,
+          "compare_at_price": "547.00",
+          "position": 1,
+          "product_id": 8230423298209,
+          "created_at": "2025-05-16T11:06:48+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 41353402941601,
+          "created_at": "2025-05-16T16:36:53+05:30",
+          "position": 1,
+          "updated_at": "2025-05-16T16:37:02+05:30",
+          "product_id": 8230423298209,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/SkinRepairKit.jpg?v=1747393622",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7457714602145,
+      "title": "Dry Skincare Kit",
+      "handle": "dry-skincare-kit",
+      "body_html": "Combo kit for keeping dry / dehydrated skin soft &amp; supple",
+      "published_at": "2022-07-17T18:57:32+05:30",
+      "created_at": "2022-07-17T11:39:55+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "aquaporin boosters",
+        "Cleanser",
+        "dehydrated skin",
+        "dryness",
+        "hyaluronic acid",
+        "Hydration",
+        "Kit",
+        "marula oil",
+        "Moisturization",
+        "score:98",
+        "serum",
+        "skin tightness"
+      ],
+      "variants": [
+        {
+          "id": 42249436070049,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100603",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "1019.00",
+          "grams": 350,
+          "compare_at_price": "1199.00",
+          "position": 1,
+          "product_id": 7457714602145,
+          "created_at": "2022-07-17T11:39:55+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 39624565981345,
+          "created_at": "2024-07-17T18:57:05+05:30",
+          "position": 1,
+          "updated_at": "2024-07-17T18:57:06+05:30",
+          "product_id": 7457714602145,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/DrySkinListing.png?v=1721222826",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 34669138051233,
+          "created_at": "2022-07-17T11:41:02+05:30",
+          "position": 2,
+          "updated_at": "2024-07-17T19:55:07+05:30",
+          "product_id": 7457714602145,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/products/MinimalistDrySkincareKit1200-1-min.png?v=1721226307",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5746157912225,
+      "title": "Squalane 100% Face Oil",
+      "handle": "squalane-100",
+      "body_html": "\u003Cp\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E AM / PM\u003Cbr\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E Everyday\u003C/span\u003E\u003C/p\u003E",
+      "published_at": "2020-10-02T12:21:43+05:30",
+      "created_at": "2020-10-02T12:15:54+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "dehydrated skin",
+        "face oil",
+        "score:99",
+        "winter"
+      ],
+      "variants": [
+        {
+          "id": 36540348825761,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100115",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "664.00",
+          "grams": 60,
+          "compare_at_price": "699.00",
+          "position": 1,
+          "product_id": 5746157912225,
+          "created_at": "2020-10-02T12:15:54+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 33357421281441,
+          "created_at": "2022-03-06T00:22:14+05:30",
+          "position": 1,
+          "updated_at": "2022-03-06T00:22:16+05:30",
+          "product_id": 5746157912225,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/products/Squalane1200-2-min.png?v=1646506336",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926799761569,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 2,
+          "updated_at": "2024-08-27T18:34:32+05:30",
+          "product_id": 5746157912225,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Squalane_2.png?v=1724763872",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 39926799794337,
+          "created_at": "2024-08-27T18:34:30+05:30",
+          "position": 3,
+          "updated_at": "2024-08-27T18:34:31+05:30",
+          "product_id": 5746157912225,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Squalane_3.png?v=1724763871",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 33890446147745,
+          "created_at": "2022-05-03T11:40:09+05:30",
+          "position": 4,
+          "updated_at": "2024-08-27T18:40:56+05:30",
+          "product_id": 5746157912225,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/products/squalane-1200--1min-1646506384396.webp?v=1724764256",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8152178065569,
+      "title": "Retinal 0.1% Face Serum",
+      "handle": "retinal-0-1-face-serum",
+      "body_html": "\u003Cp\u003E\u003Cspan\u003EA lightweight anti-aging serum formulated with Retinal, Oleyl Adapalenate, Bakuchiol, and Squalane to combat the visible signs of aging. Retinal, one of the most efficacious form of Vitamin-A, helps fight fine line, wrinkles, and uneven skin tone while improving elasticity and texture. By encouraging cell turnover, this serum promotes a more youthful, radiant complexion.\u003C/span\u003E\u003C/p\u003E",
+      "published_at": "2025-01-07T12:31:50+05:30",
+      "created_at": "2024-10-23T16:01:28+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "Anti-aging",
+        "Fine lines",
+        "score:999",
+        "treat",
+        "wrinkes",
+        "wrinkles"
+      ],
+      "variants": [
+        {
+          "id": 44680834646177,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128101518",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "759.00",
+          "grams": 200,
+          "compare_at_price": "799.00",
+          "position": 1,
+          "product_id": 8152178065569,
+          "created_at": "2024-10-23T16:01:28+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 40441598050465,
+          "created_at": "2024-10-24T11:50:13+05:30",
+          "position": 1,
+          "updated_at": "2024-10-24T11:50:15+05:30",
+          "product_id": 8152178065569,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/DomesticMain.png?v=1729750815",
+          "width": 2500,
+          "height": 3438
+        },
+        {
+          "id": 40441598017697,
+          "created_at": "2024-10-24T11:50:13+05:30",
+          "position": 2,
+          "updated_at": "2024-10-24T11:50:14+05:30",
+          "product_id": 8152178065569,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/DomesticTexture.png?v=1729750814",
+          "width": 2500,
+          "height": 3438
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7504555933857,
+      "title": "Anti Aging Skin Care Kit",
+      "handle": "anti-aging-kit",
+      "body_html": "Anti-aging routine for fading fine lines and wrinkles",
+      "published_at": "2022-08-20T21:23:52+05:30",
+      "created_at": "2022-08-20T21:20:42+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "Anti-aging",
+        "aquaporin boosters",
+        "Cleanser",
+        "coenzyme",
+        "Fine lines",
+        "Kit",
+        "niacinamide",
+        "retinol",
+        "score:98",
+        "serum",
+        "uv protection",
+        "wrinkles"
+      ],
+      "variants": [
+        {
+          "id": 42401466351777,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128100641",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "1104.00",
+          "grams": 350,
+          "compare_at_price": "1299.00",
+          "position": 1,
+          "product_id": 7504555933857,
+          "created_at": "2022-08-20T21:20:42+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 39624328708257,
+          "created_at": "2024-07-17T18:57:07+05:30",
+          "position": 1,
+          "updated_at": "2024-07-17T18:57:08+05:30",
+          "product_id": 7504555933857,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/AntiAgingListing.png?v=1721222828",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 35054970863777,
+          "created_at": "2022-08-20T21:21:00+05:30",
+          "position": 2,
+          "updated_at": "2024-07-17T19:05:59+05:30",
+          "product_id": 7504555933857,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/products/MinimalistAntiAgingKit1200-1-min.png?v=1721223359",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8283673428129,
+      "title": "Copper Peptide + PDRN 1.25% Face Serum",
+      "handle": "copper_peptide_pdrn_1-25_face_serum",
+      "body_html": "\u003Cp\u003E\u003Cstrong\u003EWhen to use:\u003C/strong\u003E PM\u003Cbr\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan data-mce-fragment=\"1\"\u003E\u003Cstrong\u003EFrequency:\u003C/strong\u003E Everyday\u003C/span\u003E\u003C/p\u003E",
+      "published_at": "2025-09-05T19:00:01+05:30",
+      "created_at": "2025-09-05T16:08:42+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "Anti-aging",
+        "Fine lines",
+        "Hydration",
+        "score:99",
+        "treat"
+      ],
+      "variants": [
+        {
+          "id": 45102860959905,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128101549",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "664.00",
+          "grams": 100,
+          "compare_at_price": "699.00",
+          "position": 1,
+          "product_id": 8283673428129,
+          "created_at": "2025-09-05T16:08:43+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 42017686257825,
+          "created_at": "2025-09-05T16:22:55+05:30",
+          "position": 1,
+          "updated_at": "2025-09-05T16:22:57+05:30",
+          "product_id": 8283673428129,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/CopyofArtboard1_2.jpg?v=1757069577",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42017813725345,
+          "created_at": "2025-09-05T17:38:31+05:30",
+          "position": 2,
+          "updated_at": "2025-09-05T17:38:33+05:30",
+          "product_id": 8283673428129,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/2_0fa1120e-b5f1-4569-8c1f-e641479c316f.png?v=1757074113",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42017813692577,
+          "created_at": "2025-09-05T17:38:31+05:30",
+          "position": 3,
+          "updated_at": "2025-09-05T17:38:33+05:30",
+          "product_id": 8283673428129,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/3_ed8679b2-5a52-4e53-9f4c-e87050bbaf89.png?v=1757074113",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42017813594273,
+          "created_at": "2025-09-05T17:38:30+05:30",
+          "position": 4,
+          "updated_at": "2025-09-05T17:38:32+05:30",
+          "product_id": 8283673428129,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/4_7f98b3b2-81dc-426e-89b1-6a7060891ada.png?v=1757074112",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42017813758113,
+          "created_at": "2025-09-05T17:38:31+05:30",
+          "position": 5,
+          "updated_at": "2025-09-05T17:38:33+05:30",
+          "product_id": 8283673428129,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/5_df109dfb-4293-4156-8cbf-478a38c353d4.png?v=1757074113",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42017813627041,
+          "created_at": "2025-09-05T17:38:30+05:30",
+          "position": 6,
+          "updated_at": "2025-09-05T17:38:32+05:30",
+          "product_id": 8283673428129,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/6_c9f084f0-c067-4ba3-84ae-628064d50018.png?v=1757074112",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42017813561505,
+          "created_at": "2025-09-05T17:38:30+05:30",
+          "position": 7,
+          "updated_at": "2025-09-05T17:38:32+05:30",
+          "product_id": 8283673428129,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/7_82a0a155-4157-4011-b476-b8cc62593da8.png?v=1757074112",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42017813659809,
+          "created_at": "2025-09-05T17:38:31+05:30",
+          "position": 8,
+          "updated_at": "2025-09-05T17:38:33+05:30",
+          "product_id": 8283673428129,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/8_2444d87b-eea5-44e1-9aca-82ae2d32e1bd.png?v=1757074113",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42017813790881,
+          "created_at": "2025-09-05T17:38:32+05:30",
+          "position": 9,
+          "updated_at": "2025-09-05T17:38:34+05:30",
+          "product_id": 8283673428129,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/1_e74f218a-a7d5-4620-865e-13006ee88d50.png?v=1757074114",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8340171358369,
+      "title": "Multi Repair Actives 15% Face Serum",
+      "handle": "multi-repair-actives-15-face-serum",
+      "body_html": "\u003Cp\u003EOur Multi-Active serum is expertly designed to support overall skin health and promote a visibly radiant and resilient complexion. Its multi-action formula targets common concerns like dullness, uneven tone, and barrier sensitivity.\u003C/p\u003E",
+      "published_at": "2025-11-07T18:58:05+05:30",
+      "created_at": "2025-11-06T16:06:00+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "Barrier Repair",
+        "Dull Skin",
+        "dullness"
+      ],
+      "variants": [
+        {
+          "id": 45320088682657,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128101969",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "664.00",
+          "grams": 0,
+          "compare_at_price": "699.00",
+          "position": 1,
+          "product_id": 8340171358369,
+          "created_at": "2025-11-06T16:06:00+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 42451365396641,
+          "created_at": "2025-11-07T17:06:37+05:30",
+          "position": 1,
+          "updated_at": "2025-11-07T17:06:38+05:30",
+          "product_id": 8340171358369,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/MultiRepairListing.jpg?v=1762515398",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42768300900513,
+          "created_at": "2025-12-09T11:09:08+05:30",
+          "position": 2,
+          "updated_at": "2025-12-09T11:09:09+05:30",
+          "product_id": 8340171358369,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Listing_MultiRepair_2.jpg?v=1765258749",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42768300933281,
+          "created_at": "2025-12-09T11:09:08+05:30",
+          "position": 3,
+          "updated_at": "2025-12-09T11:09:09+05:30",
+          "product_id": 8340171358369,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Listing_MultiRepair_3.jpg?v=1765258749",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42768300867745,
+          "created_at": "2025-12-09T11:09:08+05:30",
+          "position": 4,
+          "updated_at": "2025-12-09T11:09:09+05:30",
+          "product_id": 8340171358369,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Listing_MultiRepair_4.jpg?v=1765258749",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42768300834977,
+          "created_at": "2025-12-09T11:09:07+05:30",
+          "position": 5,
+          "updated_at": "2025-12-09T11:09:09+05:30",
+          "product_id": 8340171358369,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Listing_MultiRepair_5.jpg?v=1765258749",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42768300802209,
+          "created_at": "2025-12-09T11:09:07+05:30",
+          "position": 6,
+          "updated_at": "2025-12-09T11:09:09+05:30",
+          "product_id": 8340171358369,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Listing_MultiRepair_6.jpg?v=1765258749",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8315230847137,
+      "title": "Marula Oil 05% Cleansing Oil",
+      "handle": "marula-oil-05-cleansing-oil",
+      "body_html": "\u003Cp\u003EThis cleansing oil gently dissolves waterproof makeup and sunscreen with a blend of marula, jojoba, and olive oils. It rinses off easily without stripping moisture, leaving skin soft and non-greasy.\u003C/p\u003E",
+      "published_at": "2025-10-10T18:38:33+05:30",
+      "created_at": "2025-10-08T12:23:43+05:30",
+      "updated_at": "2026-10-28T10:42:35+05:30",
+      "vendor": "Minimalist",
+      "product_type": "Skin Care",
+      "tags": [
+        "face oil",
+        "marula oil",
+        "Oil balance",
+        "oiliness"
+      ],
+      "variants": [
+        {
+          "id": 45200778199201,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "8906128101945",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "569.00",
+          "grams": 0,
+          "compare_at_price": "599.00",
+          "position": 1,
+          "product_id": 8315230847137,
+          "created_at": "2025-10-08T12:23:43+05:30",
+          "updated_at": "2026-10-28T10:42:35+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 42221502333089,
+          "created_at": "2025-10-10T17:16:11+05:30",
+          "position": 1,
+          "updated_at": "2025-10-10T17:16:13+05:30",
+          "product_id": 8315230847137,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/ListingMarulaOil05.jpg?v=1760096773",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42232554324129,
+          "created_at": "2025-10-13T16:45:43+05:30",
+          "position": 2,
+          "updated_at": "2025-10-13T16:46:07+05:30",
+          "product_id": 8315230847137,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/MarulaOilWhatIsIt.png?v=1760354167",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42232554356897,
+          "created_at": "2025-10-13T16:45:43+05:30",
+          "position": 3,
+          "updated_at": "2025-10-13T16:46:07+05:30",
+          "product_id": 8315230847137,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/MarulaOilWhoIsItFor.png?v=1760354167",
+          "width": 1100,
+          "height": 1600
+        },
+        {
+          "id": 42232554258593,
+          "created_at": "2025-10-13T16:45:43+05:30",
+          "position": 4,
+          "updated_at": "2025-10-13T16:46:07+05:30",
+          "product_id": 8315230847137,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/MarulaOilKeyIngredients.png?v=1760354167",
+          "width": 1100,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    }
+  ]
+}

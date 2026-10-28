@@ -1,0 +1,21 @@
+{
+  "name": "skin-care-shopify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "scrape:pilgrim": "node pilgrim.js",
+    "export:pilgrim": "node pilgrim-to-csv.js",
+    "export:minimalist": "node minimalist-to-csv.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "express": "^5.3.0",
+    "playwright": "^1.64.1"
+  }
+}
